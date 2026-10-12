@@ -44,15 +44,15 @@ def section(prs: list) -> str:
         merged = sorted(by_repo[r], key=lambda p: p["closedAt"], reverse=True)
         for i, pr in enumerate(merged):
             name = f"[{r}](https://github.com/{r})" if i == 0 else ""  # repository name once per group
-            rows.append(f"| {name} | [#{pr['number']} {cell(pr['title'])}]({pr['url']}) | Merged | {pr['closedAt'][:10]} |")
+            rows.append(f"| {name} | [#{pr['number']} {cell(pr['title'])}]({pr['url']}) |")
     return "\n".join([
         f"**{len(prs)} merged pull requests** across **{len(repos)} repositories**. Most active: {top}.",
         "",
         "<details>",
         f"<summary>Show all {len(repos)} repositories</summary>",
         "",
-        "| Repository | Pull request | Status | Merged |",
-        "| --- | --- | --- | --- |",
+        "| Repository | Pull request |",
+        "| --- | --- |",
         *rows,
         "",
         "</details>",
