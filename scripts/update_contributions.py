@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Rewrite the contributions section of this profile README from GitHub search: merged pull requests into
-repositories that are neither the author's nor the employer's. Runs daily in GitHub Actions. Standard library only."""
+repositories that are neither the author's nor the employer's. Repositories are sorted by stars, highest first.
+Runs daily in GitHub Actions. Standard library only."""
 from __future__ import annotations
 
 import argparse
@@ -14,7 +15,7 @@ from pathlib import Path
 AUTHOR = "jay23606"
 EXCLUDE = ["-user:jay23606", "-org:UltraSignup1"]  # own repositories, and the employer's organisation
 START, END = "<!-- contributions:start -->", "<!-- contributions:end -->"
-TOP = 5  # repositories shown above the expandable list
+TOP = 5  # repositories named in the summary line
 README = Path(__file__).resolve().parent.parent / "README.md"
 
 
@@ -25,9 +26,22 @@ def merged_prs() -> list:
     return json.loads(result.stdout or "[]")
 
 
+def stars(full: str):
+    """Stargazer count, or None when GitHub will not say (a deleted or renamed repository)."""
+    result = subprocess.run(["gh", "api", f"repos/{full}", "--jq", ".stargazers_count"],
+                            capture_output=True, text=True)
+    text = result.stdout.strip()
+    return int(text) if result.returncode == 0 and text.isdigit() else None
+
+
 def cell(text: str) -> str:
     """One line, with pipes escaped so a title cannot break the table."""
     return " ".join(text.replace("|", "\\|").split())
+
+
+def repo_cell(full: str, count) -> str:
+    stars_text = f" · ★ {count:,}" if count is not None else ""
+    return f"[{full}](https://github.com/{full}){stars_text}"
 
 
 def section(prs: list) -> str:
@@ -37,16 +51,17 @@ def section(prs: list) -> str:
     by_repo = defaultdict(list)
     for pr in prs:
         by_repo[pr["repository"]["nameWithOwner"]].append(pr)
-    repos = sorted(by_repo, key=lambda r: (-len(by_repo[r]), r.lower()))
-    top = ", ".join(f"[{r}](https://github.com/{r}) ({len(by_repo[r])})" for r in repos[:TOP])
+    star_counts = {r: stars(r) for r in by_repo}
+    repos = sorted(by_repo, key=lambda r: (-(star_counts[r] or 0), -len(by_repo[r]), r.lower()))
+    top = ", ".join(repo_cell(r, star_counts[r]) for r in repos[:TOP])
     rows = []
     for r in repos:
         merged = sorted(by_repo[r], key=lambda p: p["closedAt"], reverse=True)
         for i, pr in enumerate(merged):
-            name = f"[{r}](https://github.com/{r})" if i == 0 else ""  # repository name once per group
+            name = repo_cell(r, star_counts[r]) if i == 0 else ""  # repository name once per group
             rows.append(f"| {name} | [#{pr['number']} {cell(pr['title'])}]({pr['url']}) |")
     return "\n".join([
-        f"**{len(prs)} merged pull requests** across **{len(repos)} repositories**. Most active: {top}.",
+        f"**{len(prs)} merged pull requests** across **{len(repos)} repositories**. Most starred: {top}.",
         "",
         "<details>",
         f"<summary>Show all {len(repos)} repositories</summary>",
