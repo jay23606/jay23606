@@ -8,6 +8,7 @@ import argparse
 import json
 import re
 import subprocess
+import sys
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -97,6 +98,7 @@ def main() -> None:
     args = ap.parse_args()
     body = section(merged_prs())
     if args.print:
+        sys.stdout.reconfigure(encoding="utf-8")  # the star symbol is not in every console code page
         print(body)
         return
     text = README.read_text(encoding="utf-8")
