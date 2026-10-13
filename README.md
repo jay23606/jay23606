@@ -1,14 +1,14 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**38 merged pull requests** across **36 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,539, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218, [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196, [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190.
+**38 merged pull requests** across **36 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,540, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218, [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196, [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190.
 
 <details>
 <summary>Show all 36 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,539 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,540 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 218 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
