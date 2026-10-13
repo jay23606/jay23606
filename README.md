@@ -1,26 +1,34 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**39 merged pull requests** across **37 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,541, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218, [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196, [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190.
+**50 merged pull requests** across **47 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,544, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 289, [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 251, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218.
 
 <details>
-<summary>Show all 37 repositories</summary>
+<summary>Show all 47 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,541 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,544 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
+| [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 289 | [#3645 fix: open mobile bottom drawers as named modal dialogs](https://github.com/opencloud-eu/web/pull/3645) |
+| [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 251 | [#602 Fix inline calendar covering picker popup](https://github.com/fetrarij/ngx-daterangepicker-material/pull/602) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 218 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190 | [#178 fix: download folders through symlink roots](https://github.com/jhalter/mobius/pull/178) |
 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 175 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 138 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
-| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 74 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
+| [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 120 | [#591 fix(cli): format NOT EXISTS without a nil dereference](https://github.com/ajitpratap0/GoSQLX/pull/591) |
+| [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
+| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 77 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
+| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 65 | [#134 Make Copy link work on non-HTTPS self-hosted servers](https://github.com/pablocaeg/sloptotal/pull/134) |
 | [barisgit/KiLM](https://github.com/barisgit/KiLM) · ★ 30 | [#14 fix: stop leaf commands showing a COMMAND [ARGS] placeholder in usage](https://github.com/barisgit/KiLM/pull/14) |
 | [adrirubio/claude-deck](https://github.com/adrirubio/claude-deck) · ★ 27 | [#532 fix: parse naive API timestamps as UTC](https://github.com/adrirubio/claude-deck/pull/532) |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) · ★ 25 | [#231 Announce palette changes to screen readers](https://github.com/yakew7/DesignHub/pull/231) |
 | [Raven-Scout/Scout](https://github.com/Raven-Scout/Scout) · ★ 20 | [#426 fix(runner): read a calendar-date weekly limit reset](https://github.com/Raven-Scout/Scout/pull/426) |
 | [windsorcli/cli](https://github.com/windsorcli/cli) · ★ 20 | [#3547 fix(cmd): validate the context being switched to, not the one being left](https://github.com/windsorcli/cli/pull/3547) |
 | [tdk-landscape/tdk-cli-core](https://github.com/tdk-landscape/tdk-cli-core) · ★ 19 | [#1052 fix(tui): no empty first line when a word is wider than the tooltip](https://github.com/tdk-landscape/tdk-cli-core/pull/1052) |
+| [mholzi/quizify](https://github.com/mholzi/quizify) · ★ 18 | [#1068 fix(pack-submissions): save records atomically](https://github.com/mholzi/quizify/pull/1068) |
+| [Shinobi-Open-Source-Academy/sos-academy-platform](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform) · ★ 17 | [#239 fix(blog): match the search text literally](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform/pull/239) |
 | [BenGWeeks/lightning-piggy-mobile](https://github.com/BenGWeeks/lightning-piggy-mobile) · ★ 16 | [#1212 fix(nostr): map bunker string rejections to NIP-46 signer denied (#1208)](https://github.com/BenGWeeks/lightning-piggy-mobile/pull/1212) |
 | [a11yhood/a11yhood.github.io](https://github.com/a11yhood/a11yhood.github.io) · ★ 8 | [#553 fix: keep product submission errors announced](https://github.com/a11yhood/a11yhood.github.io/pull/553) |
 | [danielgraviet/concrete](https://github.com/danielgraviet/concrete) · ★ 8 | [#64 test(quiz): cover markdown round trips](https://github.com/danielgraviet/concrete/pull/64) |
@@ -35,9 +43,11 @@
 | [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle) · ★ 2 | [#113 docs: document team membership representation](https://github.com/Open-Glassbeetle/glassbeetle/pull/113) |
 | [sorotrail/SoroTrail](https://github.com/sorotrail/SoroTrail) · ★ 2 | [#1086 fix(api): answer 501 when a backend does not support an operation](https://github.com/sorotrail/SoroTrail/pull/1086) |
 | [zmo2s/agent-toolbox](https://github.com/zmo2s/agent-toolbox) · ★ 2 | [#12 docs: show the clean working tree response](https://github.com/zmo2s/agent-toolbox/pull/12) |
+| [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) · ★ 1 | [#12 chore(agent): remove the leftover debug print](https://github.com/Edwin-metcalf/MetCode/pull/12) |
+|  | [#11 fix(ui): /clear also resets the current plan](https://github.com/Edwin-metcalf/MetCode/pull/11) |
 | [bilalkumrani/sirgal](https://github.com/bilalkumrani/sirgal) · ★ 1 | [#18 fix: continue Drive scans after download failures](https://github.com/bilalkumrani/sirgal/pull/18) |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) · ★ 1 | [#143 Quote YAML strings that parsers read as numbers or dates](https://github.com/codercops/toolbelt/pull/143) |
-| [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) · ★ 1 | [#11 fix(ui): /clear also resets the current plan](https://github.com/Edwin-metcalf/MetCode/pull/11) |
+| [DigiMonk73/BTCTX-MCP](https://github.com/DigiMonk73/BTCTX-MCP) · ★ 1 | [#205 fix(auth): refuse non-ASCII setup codes and over-long passwords without a 500](https://github.com/DigiMonk73/BTCTX-MCP/pull/205) |
 | [openwarelabs/open-paste](https://github.com/openwarelabs/open-paste) · ★ 1 | [#22 fix(shelf): show the site name for links that contain %](https://github.com/openwarelabs/open-paste/pull/22) |
 | [RizgarOzan/match3-lab](https://github.com/RizgarOzan/match3-lab) · ★ 1 | [#9 Add Rainfall level with empty starting cells](https://github.com/RizgarOzan/match3-lab/pull/9) |
 | [TanbirRamim/show-receipts](https://github.com/TanbirRamim/show-receipts) · ★ 1 | [#10 Recognize additional test runners](https://github.com/TanbirRamim/show-receipts/pull/10) |
@@ -47,6 +57,7 @@
 | [yunaremaia/acc-mcp](https://github.com/yunaremaia/acc-mcp) · ★ 1 | [#60 fix(cli): malformed JSON in snapshot and check exits 2 with a message](https://github.com/yunaremaia/acc-mcp/pull/60) |
 | [goldbarth/chartula](https://github.com/goldbarth/chartula) · ★ 0 | [#365 fix(history): close stdin for git processes](https://github.com/goldbarth/chartula/pull/365) |
 | [gracecraft-software/lupin](https://github.com/gracecraft-software/lupin) · ★ 0 | [#149 route: report an unknown category as a usage error](https://github.com/gracecraft-software/lupin/pull/149) |
+| [wavefnd/wave-platform](https://github.com/wavefnd/wave-platform) · ★ 0 | [#486 Fix TOTP lockout state persistence errors](https://github.com/wavefnd/wave-platform/pull/486) |
 
 </details>
 
