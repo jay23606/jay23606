@@ -1,14 +1,14 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**38 merged pull requests** across **36 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,540, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218, [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196, [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190.
+**39 merged pull requests** across **37 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,541, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218, [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196, [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190.
 
 <details>
-<summary>Show all 36 repositories</summary>
+<summary>Show all 37 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,540 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,541 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 218 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
@@ -33,6 +33,7 @@
 | [benbenlijie/citeduo](https://github.com/benbenlijie/citeduo) · ★ 2 | [#14 test(server): cover rate limits on search and connect](https://github.com/benbenlijie/citeduo/pull/14) |
 | [jalvesnicacio/compose-diagrams](https://github.com/jalvesnicacio/compose-diagrams) · ★ 2 | [#20 fix: reject malformed service definitions](https://github.com/jalvesnicacio/compose-diagrams/pull/20) |
 | [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle) · ★ 2 | [#113 docs: document team membership representation](https://github.com/Open-Glassbeetle/glassbeetle/pull/113) |
+| [sorotrail/SoroTrail](https://github.com/sorotrail/SoroTrail) · ★ 2 | [#1086 fix(api): answer 501 when a backend does not support an operation](https://github.com/sorotrail/SoroTrail/pull/1086) |
 | [zmo2s/agent-toolbox](https://github.com/zmo2s/agent-toolbox) · ★ 2 | [#12 docs: show the clean working tree response](https://github.com/zmo2s/agent-toolbox/pull/12) |
 | [bilalkumrani/sirgal](https://github.com/bilalkumrani/sirgal) · ★ 1 | [#18 fix: continue Drive scans after download failures](https://github.com/bilalkumrani/sirgal/pull/18) |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) · ★ 1 | [#143 Quote YAML strings that parsers read as numbers or dates](https://github.com/codercops/toolbelt/pull/143) |
