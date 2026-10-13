@@ -1,10 +1,10 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**50 merged pull requests** across **47 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,544, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 289, [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 251, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218.
+**51 merged pull requests** across **48 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,544, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 289, [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 251, [randovania/randovania](https://github.com/randovania/randovania) · ★ 218.
 
 <details>
-<summary>Show all 47 repositories</summary>
+<summary>Show all 48 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
@@ -19,7 +19,7 @@
 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 138 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
 | [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 120 | [#591 fix(cli): format NOT EXISTS without a nil dereference](https://github.com/ajitpratap0/GoSQLX/pull/591) |
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
-| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 77 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
+| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 78 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 65 | [#134 Make Copy link work on non-HTTPS self-hosted servers](https://github.com/pablocaeg/sloptotal/pull/134) |
 | [barisgit/KiLM](https://github.com/barisgit/KiLM) · ★ 30 | [#14 fix: stop leaf commands showing a COMMAND [ARGS] placeholder in usage](https://github.com/barisgit/KiLM/pull/14) |
 | [adrirubio/claude-deck](https://github.com/adrirubio/claude-deck) · ★ 27 | [#532 fix: parse naive API timestamps as UTC](https://github.com/adrirubio/claude-deck/pull/532) |
@@ -30,6 +30,7 @@
 | [mholzi/quizify](https://github.com/mholzi/quizify) · ★ 18 | [#1068 fix(pack-submissions): save records atomically](https://github.com/mholzi/quizify/pull/1068) |
 | [Shinobi-Open-Source-Academy/sos-academy-platform](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform) · ★ 17 | [#239 fix(blog): match the search text literally](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform/pull/239) |
 | [BenGWeeks/lightning-piggy-mobile](https://github.com/BenGWeeks/lightning-piggy-mobile) · ★ 16 | [#1212 fix(nostr): map bunker string rejections to NIP-46 signer denied (#1208)](https://github.com/BenGWeeks/lightning-piggy-mobile/pull/1212) |
+| [theazz/awless-ro](https://github.com/theazz/awless-ro) · ★ 13 | [#57 fix: warn when switch settings are overridden](https://github.com/theazz/awless-ro/pull/57) |
 | [a11yhood/a11yhood.github.io](https://github.com/a11yhood/a11yhood.github.io) · ★ 8 | [#553 fix: keep product submission errors announced](https://github.com/a11yhood/a11yhood.github.io/pull/553) |
 | [danielgraviet/concrete](https://github.com/danielgraviet/concrete) · ★ 8 | [#64 test(quiz): cover markdown round trips](https://github.com/danielgraviet/concrete/pull/64) |
 | [openvibely/openvibely](https://github.com/openvibely/openvibely) · ★ 7 | [#1458 Propagate task context into HTTP MCP tool calls](https://github.com/openvibely/openvibely/pull/1458) |
