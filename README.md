@@ -1,16 +1,19 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**62 merged pull requests** across **58 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,556, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,216, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734, [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 289, [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 251.
+**66 merged pull requests** across **61 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,563, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,218, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,994, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,735, [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 395.
 
 <details>
-<summary>Show all 58 repositories</summary>
+<summary>Show all 61 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,556 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,216 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,734 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,563 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,218 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,994 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
+| [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,735 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
+| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 395 | [#534 Stream ZIP release members with ZIP64 headers](https://github.com/microsoft/nvx/pull/534) |
+|  | [#530 Fix TCP console restore status wait timeout](https://github.com/microsoft/nvx/pull/530) |
 | [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 289 | [#3645 fix: open mobile bottom drawers as named modal dialogs](https://github.com/opencloud-eu/web/pull/3645) |
 | [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 251 | [#602 Fix inline calendar covering picker popup](https://github.com/fetrarij/ngx-daterangepicker-material/pull/602) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 219 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
@@ -46,8 +49,10 @@
 | [linagora/cozy-settings](https://github.com/linagora/cozy-settings) · ★ 4 | [#878 Treat whitespace-only username as empty in profile](https://github.com/linagora/cozy-settings/pull/878) |
 | [TomStrepsil/replace-content-transformer](https://github.com/TomStrepsil/replace-content-transformer) · ★ 3 | [#83 [37] Report stream-relative match.index and drop match.input](https://github.com/TomStrepsil/replace-content-transformer/pull/83) |
 |  | [#79 [77] Keep text after nested matches across chunks](https://github.com/TomStrepsil/replace-content-transformer/pull/79) |
+| [dereksantos/cortex](https://github.com/dereksantos/cortex) · ★ 3 | [#286 feat(cli): cortex completion <bash\|zsh\|fish>](https://github.com/dereksantos/cortex/pull/286) |
 | [phranck/musiccloud](https://github.com/phranck/musiccloud) · ★ 3 | [#630 fix(jiosaavn): map the album endpoint's actual response shape](https://github.com/phranck/musiccloud/pull/630) |
 | [benbenlijie/citeduo](https://github.com/benbenlijie/citeduo) · ★ 2 | [#14 test(server): cover rate limits on search and connect](https://github.com/benbenlijie/citeduo/pull/14) |
+| [codercops/toolbelt](https://github.com/codercops/toolbelt) · ★ 2 | [#143 Quote YAML strings that parsers read as numbers or dates](https://github.com/codercops/toolbelt/pull/143) |
 | [jalvesnicacio/compose-diagrams](https://github.com/jalvesnicacio/compose-diagrams) · ★ 2 | [#20 fix: reject malformed service definitions](https://github.com/jalvesnicacio/compose-diagrams/pull/20) |
 | [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle) · ★ 2 | [#113 docs: document team membership representation](https://github.com/Open-Glassbeetle/glassbeetle/pull/113) |
 | [sorotrail/SoroTrail](https://github.com/sorotrail/SoroTrail) · ★ 2 | [#1086 fix(api): answer 501 when a backend does not support an operation](https://github.com/sorotrail/SoroTrail/pull/1086) |
@@ -55,7 +60,6 @@
 | [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) · ★ 1 | [#12 chore(agent): remove the leftover debug print](https://github.com/Edwin-metcalf/MetCode/pull/12) |
 |  | [#11 fix(ui): /clear also resets the current plan](https://github.com/Edwin-metcalf/MetCode/pull/11) |
 | [bilalkumrani/sirgal](https://github.com/bilalkumrani/sirgal) · ★ 1 | [#18 fix: continue Drive scans after download failures](https://github.com/bilalkumrani/sirgal/pull/18) |
-| [codercops/toolbelt](https://github.com/codercops/toolbelt) · ★ 1 | [#143 Quote YAML strings that parsers read as numbers or dates](https://github.com/codercops/toolbelt/pull/143) |
 | [DigiMonk73/BTCTX-MCP](https://github.com/DigiMonk73/BTCTX-MCP) · ★ 1 | [#205 fix(auth): refuse non-ASCII setup codes and over-long passwords without a 500](https://github.com/DigiMonk73/BTCTX-MCP/pull/205) |
 | [openwarelabs/open-paste](https://github.com/openwarelabs/open-paste) · ★ 1 | [#22 fix(shelf): show the site name for links that contain %](https://github.com/openwarelabs/open-paste/pull/22) |
 | [RizgarOzan/match3-lab](https://github.com/RizgarOzan/match3-lab) · ★ 1 | [#9 Add Rainfall level with empty starting cells](https://github.com/RizgarOzan/match3-lab/pull/9) |
