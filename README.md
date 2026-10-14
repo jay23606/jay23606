@@ -1,17 +1,18 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**66 merged pull requests** across **61 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,563, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,218, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,994, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,735, [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 395.
+**70 merged pull requests** across **64 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,569, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,219, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,995, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,736, [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,437.
 
 <details>
-<summary>Show all 61 repositories</summary>
+<summary>Show all 64 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,563 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,218 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,994 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,735 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,569 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,219 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,995 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
+| [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,736 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
+| [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,437 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 395 | [#534 Stream ZIP release members with ZIP64 headers](https://github.com/microsoft/nvx/pull/534) |
 |  | [#530 Fix TCP console restore status wait timeout](https://github.com/microsoft/nvx/pull/530) |
 | [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 289 | [#3645 fix: open mobile bottom drawers as named modal dialogs](https://github.com/opencloud-eu/web/pull/3645) |
@@ -25,6 +26,8 @@
 | [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 120 | [#591 fix(cli): format NOT EXISTS without a nil dereference](https://github.com/ajitpratap0/GoSQLX/pull/591) |
 | [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 81 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
+| [meellm/MeManga](https://github.com/meellm/MeManga) · ★ 72 | [#430 Lock remaining reader and catalogue state mutations](https://github.com/meellm/MeManga/pull/430) |
+|  | [#431 fix(deps): require playwright-stealth 2.x for Stealth API](https://github.com/meellm/MeManga/pull/431) |
 | [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 67 | [#140 Add a Node.js example client for /api/analyze](https://github.com/pablocaeg/sloptotal/pull/140) |
 |  | [#134 Make Copy link work on non-HTTPS self-hosted servers](https://github.com/pablocaeg/sloptotal/pull/134) |
 | [mapitman/mdview](https://github.com/mapitman/mdview) · ★ 39 | [#61 Fix image links with optional titles](https://github.com/mapitman/mdview/pull/61) |
@@ -46,6 +49,8 @@
 | [openvibely/openvibely](https://github.com/openvibely/openvibely) · ★ 7 | [#1458 Propagate task context into HTTP MCP tool calls](https://github.com/openvibely/openvibely/pull/1458) |
 |  | [#1454 fix: truncate webhook titles on UTF-8 boundaries](https://github.com/openvibely/openvibely/pull/1454) |
 | [continuous-dems/fetchez](https://github.com/continuous-dems/fetchez) · ★ 7 | [#481 fix(api): dry run reads the flat results list](https://github.com/continuous-dems/fetchez/pull/481) |
+| [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) · ★ 5 | [#12 chore(agent): remove the leftover debug print](https://github.com/Edwin-metcalf/MetCode/pull/12) |
+|  | [#11 fix(ui): /clear also resets the current plan](https://github.com/Edwin-metcalf/MetCode/pull/11) |
 | [linagora/cozy-settings](https://github.com/linagora/cozy-settings) · ★ 4 | [#878 Treat whitespace-only username as empty in profile](https://github.com/linagora/cozy-settings/pull/878) |
 | [TomStrepsil/replace-content-transformer](https://github.com/TomStrepsil/replace-content-transformer) · ★ 3 | [#83 [37] Report stream-relative match.index and drop match.input](https://github.com/TomStrepsil/replace-content-transformer/pull/83) |
 |  | [#79 [77] Keep text after nested matches across chunks](https://github.com/TomStrepsil/replace-content-transformer/pull/79) |
@@ -57,8 +62,6 @@
 | [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle) · ★ 2 | [#113 docs: document team membership representation](https://github.com/Open-Glassbeetle/glassbeetle/pull/113) |
 | [sorotrail/SoroTrail](https://github.com/sorotrail/SoroTrail) · ★ 2 | [#1086 fix(api): answer 501 when a backend does not support an operation](https://github.com/sorotrail/SoroTrail/pull/1086) |
 | [zmo2s/agent-toolbox](https://github.com/zmo2s/agent-toolbox) · ★ 2 | [#12 docs: show the clean working tree response](https://github.com/zmo2s/agent-toolbox/pull/12) |
-| [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) · ★ 1 | [#12 chore(agent): remove the leftover debug print](https://github.com/Edwin-metcalf/MetCode/pull/12) |
-|  | [#11 fix(ui): /clear also resets the current plan](https://github.com/Edwin-metcalf/MetCode/pull/11) |
 | [bilalkumrani/sirgal](https://github.com/bilalkumrani/sirgal) · ★ 1 | [#18 fix: continue Drive scans after download failures](https://github.com/bilalkumrani/sirgal/pull/18) |
 | [DigiMonk73/BTCTX-MCP](https://github.com/DigiMonk73/BTCTX-MCP) · ★ 1 | [#205 fix(auth): refuse non-ASCII setup codes and over-long passwords without a 500](https://github.com/DigiMonk73/BTCTX-MCP/pull/205) |
 | [openwarelabs/open-paste](https://github.com/openwarelabs/open-paste) · ★ 1 | [#22 fix(shelf): show the site name for links that contain %](https://github.com/openwarelabs/open-paste/pull/22) |
@@ -72,6 +75,7 @@
 | [yunaremaia/acc-mcp](https://github.com/yunaremaia/acc-mcp) · ★ 1 | [#60 fix(cli): malformed JSON in snapshot and check exits 2 with a message](https://github.com/yunaremaia/acc-mcp/pull/60) |
 | [goldbarth/chartula](https://github.com/goldbarth/chartula) · ★ 0 | [#365 fix(history): close stdin for git processes](https://github.com/goldbarth/chartula/pull/365) |
 | [gracecraft-software/lupin](https://github.com/gracecraft-software/lupin) · ★ 0 | [#149 route: report an unknown category as a usage error](https://github.com/gracecraft-software/lupin/pull/149) |
+| [JoanAbad82/mtgsynergy](https://github.com/JoanAbad82/mtgsynergy) · ★ 0 | [#68 test: cover cards-index verifier with isolated fixtures](https://github.com/JoanAbad82/mtgsynergy/pull/68) |
 | [tokenmp/core](https://github.com/tokenmp/core) · ★ 0 | [#42 fix: report usage for same-dialect non-streaming passthrough](https://github.com/tokenmp/core/pull/42) |
 | [wavefnd/wave-platform](https://github.com/wavefnd/wave-platform) · ★ 0 | [#486 Fix TOTP lockout state persistence errors](https://github.com/wavefnd/wave-platform/pull/486) |
 
