@@ -1,14 +1,14 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**71 merged pull requests** across **65 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,572, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,220, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,996, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,737, [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,438.
+**72 merged pull requests** across **66 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,573, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,220, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,996, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,737, [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,438.
 
 <details>
-<summary>Show all 65 repositories</summary>
+<summary>Show all 66 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,572 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,573 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
 | [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,220 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
 | [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,996 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,737 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
@@ -22,7 +22,7 @@
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190 | [#178 fix: download folders through symlink roots](https://github.com/jhalter/mobius/pull/178) |
 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 175 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 138 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
-| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 136 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
+| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 137 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
 | [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 120 | [#591 fix(cli): format NOT EXISTS without a nil dereference](https://github.com/ajitpratap0/GoSQLX/pull/591) |
 | [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 81 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
@@ -60,6 +60,7 @@
 | [benbenlijie/citeduo](https://github.com/benbenlijie/citeduo) · ★ 2 | [#14 test(server): cover rate limits on search and connect](https://github.com/benbenlijie/citeduo/pull/14) |
 | [codercops/toolbelt](https://github.com/codercops/toolbelt) · ★ 2 | [#143 Quote YAML strings that parsers read as numbers or dates](https://github.com/codercops/toolbelt/pull/143) |
 | [jalvesnicacio/compose-diagrams](https://github.com/jalvesnicacio/compose-diagrams) · ★ 2 | [#20 fix: reject malformed service definitions](https://github.com/jalvesnicacio/compose-diagrams/pull/20) |
+| [Jartan-LLC/grimoire](https://github.com/Jartan-LLC/grimoire) · ★ 2 | [#84 fix(hooks): print nothing for malformed stdin in gitwise and praxis](https://github.com/Jartan-LLC/grimoire/pull/84) |
 | [Open-Glassbeetle/glassbeetle](https://github.com/Open-Glassbeetle/glassbeetle) · ★ 2 | [#113 docs: document team membership representation](https://github.com/Open-Glassbeetle/glassbeetle/pull/113) |
 | [sorotrail/SoroTrail](https://github.com/sorotrail/SoroTrail) · ★ 2 | [#1086 fix(api): answer 501 when a backend does not support an operation](https://github.com/sorotrail/SoroTrail/pull/1086) |
 | [zmo2s/agent-toolbox](https://github.com/zmo2s/agent-toolbox) · ★ 2 | [#12 docs: show the clean working tree response](https://github.com/zmo2s/agent-toolbox/pull/12) |
@@ -82,5 +83,5 @@
 
 </details>
 
-_Updated 2026-10-14 (UTC) by a scheduled GitHub Action._
+_Updated 2026-10-15 (UTC) by a scheduled GitHub Action._
 <!-- contributions:end -->
