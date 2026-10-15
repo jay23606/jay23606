@@ -1,18 +1,18 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**74 merged pull requests** across **67 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,575, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,221, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,997, [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,895, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,737.
+**74 merged pull requests** across **67 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,580, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,224, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,998, [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,896, [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,738.
 
 <details>
 <summary>Show all 67 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,575 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,221 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,997 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,895 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
-| [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,737 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,580 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,224 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 3,998 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,896 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
+| [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,738 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,438 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 396 | [#534 Stream ZIP release members with ZIP64 headers](https://github.com/microsoft/nvx/pull/534) |
 |  | [#530 Fix TCP console restore status wait timeout](https://github.com/microsoft/nvx/pull/530) |
@@ -29,7 +29,7 @@
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
 | [meellm/MeManga](https://github.com/meellm/MeManga) · ★ 72 | [#430 Lock remaining reader and catalogue state mutations](https://github.com/meellm/MeManga/pull/430) |
 |  | [#431 fix(deps): require playwright-stealth 2.x for Stealth API](https://github.com/meellm/MeManga/pull/431) |
-| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 67 | [#140 Add a Node.js example client for /api/analyze](https://github.com/pablocaeg/sloptotal/pull/140) |
+| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 68 | [#140 Add a Node.js example client for /api/analyze](https://github.com/pablocaeg/sloptotal/pull/140) |
 |  | [#134 Make Copy link work on non-HTTPS self-hosted servers](https://github.com/pablocaeg/sloptotal/pull/134) |
 | [mapitman/mdview](https://github.com/mapitman/mdview) · ★ 39 | [#61 Fix image links with optional titles](https://github.com/mapitman/mdview/pull/61) |
 | [speedyk-005/yasbd-lib](https://github.com/speedyk-005/yasbd-lib) · ★ 34 | [#399 Recognize symmetric quotes as quoted spans](https://github.com/speedyk-005/yasbd-lib/pull/399) |
