@@ -1,19 +1,19 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**82 merged pull requests** across **73 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,593, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,175, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,245, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,228, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,001.
+**83 merged pull requests** across **74 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,596, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,177, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,245, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,228, [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,004.
 
 <details>
-<summary>Show all 73 repositories</summary>
+<summary>Show all 74 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,593 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,175 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,596 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,177 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,245 | [#13669 Fix imports in ORM documentation examples](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
 | [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,228 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,001 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,897 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
+| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,004 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,898 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,738 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,441 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 398 | [#523 scripts: enforce an end-to-end deadline on azure metadata reads](https://github.com/microsoft/nvx/pull/523) |
@@ -24,13 +24,13 @@
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 219 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 196 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 190 | [#178 fix: download folders through symlink roots](https://github.com/jhalter/mobius/pull/178) |
-| [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 175 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
-| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 139 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
+| [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 176 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
+| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 140 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 138 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
 | [llm-exe/llm-exe](https://github.com/llm-exe/llm-exe) · ★ 135 | [#834 fix(parser): empty response content throws a coded parse error in LlmFunctionParser](https://github.com/llm-exe/llm-exe/pull/834) |
 | [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 120 | [#591 fix(cli): format NOT EXISTS without a nil dereference](https://github.com/ajitpratap0/GoSQLX/pull/591) |
 | [gardener/external-dns-management](https://github.com/gardener/external-dns-management) · ★ 96 | [#1151 aws-route53: use GovCloud/China region for `aws-us-gov`/`aws-cn` workload identity roles](https://github.com/gardener/external-dns-management/pull/1151) |
-| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 83 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
+| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 84 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
 | [meellm/MeManga](https://github.com/meellm/MeManga) · ★ 74 | [#430 Lock remaining reader and catalogue state mutations](https://github.com/meellm/MeManga/pull/430) |
 |  | [#431 fix(deps): require playwright-stealth 2.x for Stealth API](https://github.com/meellm/MeManga/pull/431) |
@@ -88,10 +88,11 @@
 | [goldbarth/chartula](https://github.com/goldbarth/chartula) · ★ 0 | [#365 fix(history): close stdin for git processes](https://github.com/goldbarth/chartula/pull/365) |
 | [gracecraft-software/lupin](https://github.com/gracecraft-software/lupin) · ★ 0 | [#149 route: report an unknown category as a usage error](https://github.com/gracecraft-software/lupin/pull/149) |
 | [JoanAbad82/mtgsynergy](https://github.com/JoanAbad82/mtgsynergy) · ★ 0 | [#68 test: cover cards-index verifier with isolated fixtures](https://github.com/JoanAbad82/mtgsynergy/pull/68) |
+| [philorien/dcma-site](https://github.com/philorien/dcma-site) · ★ 0 | [#83 Fix duplicate section heading IDs](https://github.com/philorien/dcma-site/pull/83) |
 | [tokenmp/core](https://github.com/tokenmp/core) · ★ 0 | [#42 fix: report usage for same-dialect non-streaming passthrough](https://github.com/tokenmp/core/pull/42) |
 | [wavefnd/wave-platform](https://github.com/wavefnd/wave-platform) · ★ 0 | [#486 Fix TOTP lockout state persistence errors](https://github.com/wavefnd/wave-platform/pull/486) |
 
 </details>
 
-_Updated 2026-10-15 (UTC) by a scheduled GitHub Action._
+_Updated 2026-10-16 (UTC) by a scheduled GitHub Action._
 <!-- contributions:end -->
