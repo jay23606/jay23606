@@ -1,20 +1,20 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**90 merged pull requests** across **78 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,617, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,215, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,242, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,238, [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,226.
+**92 merged pull requests** across **79 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,620, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,215, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,242, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,238, [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,227.
 
 <details>
-<summary>Show all 78 repositories</summary>
+<summary>Show all 79 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,617 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,620 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,215 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,242 | [#13669 Fix imports in ORM documentation examples](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
 | [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,238 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,226 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
-| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,006 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,905 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
+| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,227 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
+| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,007 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,907 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,738 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,443 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 405 | [#580 ci: treat .dockerignore as a guest build input](https://github.com/microsoft/nvx/pull/580) |
@@ -35,7 +35,8 @@
 | [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo) · ★ 111 | [#7639 fix(classifier): keep task tab focus on activation](https://github.com/zooniverse/front-end-monorepo/pull/7639) |
 | [gardener/external-dns-management](https://github.com/gardener/external-dns-management) · ★ 96 | [#1151 aws-route53: use GovCloud/China region for `aws-us-gov`/`aws-cn` workload identity roles](https://github.com/gardener/external-dns-management/pull/1151) |
 | [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 86 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
-| [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 77 | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
+| [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1500 Warn on duplicate data-ax-key in the compiled render path (AVX_W20)](https://github.com/Avenx-JS/avenx-js/pull/1500) |
+|  | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
 | [meellm/MeManga](https://github.com/meellm/MeManga) · ★ 75 | [#430 Lock remaining reader and catalogue state mutations](https://github.com/meellm/MeManga/pull/430) |
 |  | [#431 fix(deps): require playwright-stealth 2.x for Stealth API](https://github.com/meellm/MeManga/pull/431) |
 | [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 67 | [#140 Add a Node.js example client for /api/analyze](https://github.com/pablocaeg/sloptotal/pull/140) |
@@ -79,6 +80,7 @@
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) · ★ 1 | [#43 evals: measure one skill at a time with PE_EVAL_SKILL](https://github.com/Bubblegunn/product-engineer/pull/43) |
 | [DigiMonk73/BTCTX-MCP](https://github.com/DigiMonk73/BTCTX-MCP) · ★ 1 | [#205 fix(auth): refuse non-ASCII setup codes and over-long passwords without a 500](https://github.com/DigiMonk73/BTCTX-MCP/pull/205) |
 | [openwarelabs/open-paste](https://github.com/openwarelabs/open-paste) · ★ 1 | [#22 fix(shelf): show the site name for links that contain %](https://github.com/openwarelabs/open-paste/pull/22) |
+| [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) · ★ 1 | [#61 Clamp oversized maxChars and maxResults in agent tools](https://github.com/petertzy/deeplocal-chat-adapter/pull/61) |
 | [RizgarOzan/match3-lab](https://github.com/RizgarOzan/match3-lab) · ★ 1 | [#9 Add Rainfall level with empty starting cells](https://github.com/RizgarOzan/match3-lab/pull/9) |
 | [StepenkoAnatoli/Research-Kit](https://github.com/StepenkoAnatoli/Research-Kit) · ★ 1 | [#408 Fix FI sidecar conformance: array indices past 0 rejected by Node runner](https://github.com/StepenkoAnatoli/Research-Kit/pull/408) |
 | [TanbirRamim/show-receipts](https://github.com/TanbirRamim/show-receipts) · ★ 1 | [#10 Recognize additional test runners](https://github.com/TanbirRamim/show-receipts/pull/10) |
