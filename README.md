@@ -1,22 +1,23 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**93 merged pull requests** across **80 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,637, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,227, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,244, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,240, [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,229.
+**94 merged pull requests** across **81 repositories**. Most starred: [restic/restic](https://github.com/restic/restic) · ★ 36,641, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,232, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,244, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,240, [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,230.
 
 <details>
-<summary>Show all 80 repositories</summary>
+<summary>Show all 81 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,637 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,227 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,641 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,232 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,244 | [#13669 Fix imports in ORM documentation examples](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
 | [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,240 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,229 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
+| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,230 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
 | [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,009 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,909 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,910 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,738 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,448 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
+| [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) · ★ 1,145 | [#298 fix(web): clarify proxy setting behavior (#297)](https://github.com/kookxiang/jellyfin-plugin-bangumi/pull/298) |
 | [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 408 | [#580 ci: treat .dockerignore as a guest build input](https://github.com/microsoft/nvx/pull/580) |
 |  | [#582 ci: key the kernel cache on each patch's path and order](https://github.com/microsoft/nvx/pull/582) |
 |  | [#523 scripts: enforce an end-to-end deadline on azure metadata reads](https://github.com/microsoft/nvx/pull/523) |
@@ -34,7 +35,7 @@
 | [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 120 | [#591 fix(cli): format NOT EXISTS without a nil dereference](https://github.com/ajitpratap0/GoSQLX/pull/591) |
 | [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo) · ★ 111 | [#7639 fix(classifier): keep task tab focus on activation](https://github.com/zooniverse/front-end-monorepo/pull/7639) |
 | [gardener/external-dns-management](https://github.com/gardener/external-dns-management) · ★ 96 | [#1151 aws-route53: use GovCloud/China region for `aws-us-gov`/`aws-cn` workload identity roles](https://github.com/gardener/external-dns-management/pull/1151) |
-| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 88 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
+| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 89 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1500 Warn on duplicate data-ax-key in the compiled render path (AVX_W20)](https://github.com/Avenx-JS/avenx-js/pull/1500) |
 |  | [#1485 fix(compiler): do not flag a static id inside a loop's <@empty> branch](https://github.com/Avenx-JS/avenx-js/pull/1485) |
 | [meellm/MeManga](https://github.com/meellm/MeManga) · ★ 75 | [#430 Lock remaining reader and catalogue state mutations](https://github.com/meellm/MeManga/pull/430) |
