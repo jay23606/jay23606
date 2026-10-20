@@ -1,38 +1,39 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**109 merged pull requests** across **90 repositories**. Most starred: [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,200, [restic/restic](https://github.com/restic/restic) · ★ 36,675, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,271, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,250, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,249.
+**114 merged pull requests** across **94 repositories**. Most starred: [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,200, [restic/restic](https://github.com/restic/restic) · ★ 36,679, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,277, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,250, [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,250.
 
 <details>
-<summary>Show all 90 repositories</summary>
+<summary>Show all 94 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,200 | [#3561 Report SC2236/SC2237 for negated test(1) commands](https://github.com/koalaman/shellcheck/pull/3561) |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,675 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,271 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,679 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,277 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,250 | [#13669 Fix imports in ORM documentation examples](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,249 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,241 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,250 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,242 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
 | [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,010 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,912 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,913 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,738 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,458 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) · ★ 1,144 | [#298 fix(web): clarify proxy setting behavior (#297)](https://github.com/kookxiang/jellyfin-plugin-bangumi/pull/298) |
-| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 628 | [#1026 fix(plugin): keep anchors and word boundaries from matching inside a character](https://github.com/eugenioenko/ttt/pull/1026) |
-| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 508 | [#576 sandbox: accept only the distro layer and scratch](https://github.com/microsoft/nvx/pull/576) |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 631 | [#1026 fix(plugin): keep anchors and word boundaries from matching inside a character](https://github.com/eugenioenko/ttt/pull/1026) |
+| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 527 | [#577 test(microvm): read the host-loopback HTTP request up to its blank line](https://github.com/microsoft/nvx/pull/577) |
+|  | [#576 sandbox: accept only the distro layer and scratch](https://github.com/microsoft/nvx/pull/576) |
 |  | [#580 ci: treat .dockerignore as a guest build input](https://github.com/microsoft/nvx/pull/580) |
 |  | [#582 ci: key the kernel cache on each patch's path and order](https://github.com/microsoft/nvx/pull/582) |
 |  | [#523 scripts: enforce an end-to-end deadline on azure metadata reads](https://github.com/microsoft/nvx/pull/523) |
 |  | [#534 Stream ZIP release members with ZIP64 headers](https://github.com/microsoft/nvx/pull/534) |
 |  | [#530 Fix TCP console restore status wait timeout](https://github.com/microsoft/nvx/pull/530) |
-| [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 291 | [#3645 fix: open mobile bottom drawers as named modal dialogs](https://github.com/opencloud-eu/web/pull/3645) |
+| [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 292 | [#3645 fix: open mobile bottom drawers as named modal dialogs](https://github.com/opencloud-eu/web/pull/3645) |
 | [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 252 | [#602 Fix inline calendar covering picker popup](https://github.com/fetrarij/ngx-daterangepicker-material/pull/602) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 219 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 197 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 191 | [#178 fix: download folders through symlink roots](https://github.com/jhalter/mobius/pull/178) |
 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 178 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
-| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 149 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
+| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 151 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 140 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
 | [Dave-London/Pare](https://github.com/Dave-London/Pare) · ★ 139 | [#1156 fix(git): filter branch list by pattern with --list](https://github.com/Dave-London/Pare/pull/1156) |
 | [llm-exe/llm-exe](https://github.com/llm-exe/llm-exe) · ★ 136 | [#834 fix(parser): empty response content throws a coded parse error in LlmFunctionParser](https://github.com/llm-exe/llm-exe/pull/834) |
@@ -53,6 +54,7 @@
 | [barisgit/KiLM](https://github.com/barisgit/KiLM) · ★ 30 | [#14 fix: stop leaf commands showing a COMMAND [ARGS] placeholder in usage](https://github.com/barisgit/KiLM/pull/14) |
 | [adrirubio/claude-deck](https://github.com/adrirubio/claude-deck) · ★ 27 | [#532 fix: parse naive API timestamps as UTC](https://github.com/adrirubio/claude-deck/pull/532) |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) · ★ 26 | [#231 Announce palette changes to screen readers](https://github.com/yakew7/DesignHub/pull/231) |
+| [getsotto/sotto](https://github.com/getsotto/sotto) · ★ 24 | [#638 fix(web): expire payer transfer invitations at their deadline](https://github.com/getsotto/sotto/pull/638) |
 | [tdk-landscape/tdk-cli-core](https://github.com/tdk-landscape/tdk-cli-core) · ★ 23 | [#1052 fix(tui): no empty first line when a word is wider than the tooltip](https://github.com/tdk-landscape/tdk-cli-core/pull/1052) |
 | [richshaw/OpenSignup](https://github.com/richshaw/OpenSignup) · ★ 22 | [#395 fix(commitments): stop returning editTokenHash from participant endpoints](https://github.com/richshaw/OpenSignup/pull/395) |
 | [Raven-Scout/Scout](https://github.com/Raven-Scout/Scout) · ★ 20 | [#426 fix(runner): read a calendar-date weekly limit reset](https://github.com/Raven-Scout/Scout/pull/426) |
@@ -60,14 +62,17 @@
 | [mholzi/quizify](https://github.com/mholzi/quizify) · ★ 18 | [#1068 fix(pack-submissions): save records atomically](https://github.com/mholzi/quizify/pull/1068) |
 | [Shinobi-Open-Source-Academy/sos-academy-platform](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform) · ★ 17 | [#239 fix(blog): match the search text literally](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform/pull/239) |
 | [LightningPiggy/lightning-piggy-mobile](https://github.com/LightningPiggy/lightning-piggy-mobile) · ★ 16 | [#1212 fix(nostr): map bunker string rejections to NIP-46 signer denied (#1208)](https://github.com/LightningPiggy/lightning-piggy-mobile/pull/1212) |
+| [8f4e/8f4e](https://github.com/8f4e/8f4e) · ★ 15 | [#1142 chore(config): remove unused shared config helpers](https://github.com/8f4e/8f4e/pull/1142) |
 | [nickpending/prismis](https://github.com/nickpending/prismis) · ★ 14 | [#93 fix(cli): send --json command errors to stderr instead of printing nothing](https://github.com/nickpending/prismis/pull/93) |
 | [theazz/awless-ro](https://github.com/theazz/awless-ro) · ★ 14 | [#57 fix: warn when switch settings are overridden](https://github.com/theazz/awless-ro/pull/57) |
+| [FreakySneaky787/Simple-Organizer](https://github.com/FreakySneaky787/Simple-Organizer) · ★ 13 | [#103 Restore a file named like its category folder after a failed move (#100)](https://github.com/FreakySneaky787/Simple-Organizer/pull/103) |
 | [nickna/Conduit](https://github.com/nickna/Conduit) · ★ 11 | [#1661 Reject Redis URLs with a missing host](https://github.com/nickna/Conduit/pull/1661) |
 | [danielgraviet/concrete](https://github.com/danielgraviet/concrete) · ★ 9 | [#64 test(quiz): cover markdown round trips](https://github.com/danielgraviet/concrete/pull/64) |
 | [a11yhood/a11yhood.github.io](https://github.com/a11yhood/a11yhood.github.io) · ★ 8 | [#553 fix: keep product submission errors announced](https://github.com/a11yhood/a11yhood.github.io/pull/553) |
 | [openvibely/openvibely](https://github.com/openvibely/openvibely) · ★ 7 | [#1458 Propagate task context into HTTP MCP tool calls](https://github.com/openvibely/openvibely/pull/1458) |
 |  | [#1454 fix: truncate webhook titles on UTF-8 boundaries](https://github.com/openvibely/openvibely/pull/1454) |
 | [continuous-dems/fetchez](https://github.com/continuous-dems/fetchez) · ★ 7 | [#481 fix(api): dry run reads the flat results list](https://github.com/continuous-dems/fetchez/pull/481) |
+| [iamkarlson/grocy-py](https://github.com/iamkarlson/grocy-py) · ★ 6 | [#30 fix(errors): GrocyError handles non-JSON and JSON-without-message bodies](https://github.com/iamkarlson/grocy-py/pull/30) |
 | [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) · ★ 5 | [#22 Recover tool calls wrapped in a markdown code fence](https://github.com/Edwin-metcalf/MetCode/pull/22) |
 |  | [#23 Accept y, yes and 1 at confirm prompts (line input)](https://github.com/Edwin-metcalf/MetCode/pull/23) |
 |  | [#12 chore(agent): remove the leftover debug print](https://github.com/Edwin-metcalf/MetCode/pull/12) |
