@@ -1,27 +1,27 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**152 merged pull requests** across **118 repositories**. Most starred: [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,217, [restic/restic](https://github.com/restic/restic) · ★ 36,729, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,322, [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 13,553, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,253.
+**154 merged pull requests** across **119 repositories**. Most starred: [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,217, [restic/restic](https://github.com/restic/restic) · ★ 36,733, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,327, [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 13,555, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,253.
 
 <details>
-<summary>Show all 118 repositories</summary>
+<summary>Show all 119 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,217 | [#3561 Report SC2236/SC2237 for negated test(1) commands](https://github.com/koalaman/shellcheck/pull/3561) |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,729 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,322 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 13,553 | [#4198 fix: stop bare #N in comments, link text, colours and words becoming tickets](https://github.com/The-PR-Agent/pr-agent/pull/4198) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,733 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,327 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 13,555 | [#4198 fix: stop bare #N in comments, link text, colours and words becoming tickets](https://github.com/The-PR-Agent/pr-agent/pull/4198) |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,253 | [#13669 Fix imports in ORM documentation examples](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) · ★ 5,615 | [#1228 fix(cli): report NotInitializedError without a stack trace](https://github.com/Tencent/teamai-cli/pull/1228) |
 | [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,265 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,258 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,017 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,260 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,018 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
 | [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,928 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,741 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
-| [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,467 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
+| [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,468 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) · ★ 1,144 | [#298 fix(web): clarify proxy setting behavior (#297)](https://github.com/kookxiang/jellyfin-plugin-bangumi/pull/298) |
-| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 722 | [#735 Reject unrepresentable sandbox resource limits](https://github.com/microsoft/nvx/pull/735) |
+| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 727 | [#735 Reject unrepresentable sandbox resource limits](https://github.com/microsoft/nvx/pull/735) |
 |  | [#579 fix(sandbox): reserve /run, /run/nvx, and the /run/nvx/time tree as share targets](https://github.com/microsoft/nvx/pull/579) |
 |  | [#584 build: reject Ubuntu initramfs source edits made during packing](https://github.com/microsoft/nvx/pull/584) |
 |  | [#585 aci_edge_sandboxes: honor the timeout in async wait_with_output](https://github.com/microsoft/nvx/pull/585) |
@@ -33,16 +33,18 @@
 |  | [#523 scripts: enforce an end-to-end deadline on azure metadata reads](https://github.com/microsoft/nvx/pull/523) |
 |  | [#534 Stream ZIP release members with ZIP64 headers](https://github.com/microsoft/nvx/pull/534) |
 |  | [#530 Fix TCP console restore status wait timeout](https://github.com/microsoft/nvx/pull/530) |
-| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 686 | [#1026 fix(plugin): keep anchors and word boundaries from matching inside a character](https://github.com/eugenioenko/ttt/pull/1026) |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 702 | [#1026 fix(plugin): keep anchors and word boundaries from matching inside a character](https://github.com/eugenioenko/ttt/pull/1026) |
 | [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 293 | [#3645 fix: open mobile bottom drawers as named modal dialogs](https://github.com/opencloud-eu/web/pull/3645) |
 | [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 252 | [#602 Fix inline calendar covering picker popup](https://github.com/fetrarij/ngx-daterangepicker-material/pull/602) |
+| [Techiebutler/freeframe](https://github.com/Techiebutler/freeframe) · ★ 237 | [#513 fix(web): open the notification drawer beside an expanded sidebar](https://github.com/Techiebutler/freeframe/pull/513) |
+|  | [#512 fix(web): keep project settings edits when the project list refetches](https://github.com/Techiebutler/freeframe/pull/512) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 219 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
 | [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) · ★ 199 | [#167 Reject cross-site pagination URLs](https://github.com/alexdlaird/amazon-orders/pull/167) |
 | [esphome/aioesphomeapi](https://github.com/esphome/aioesphomeapi) · ★ 199 | [#1960 fix: classify disconnected client errors](https://github.com/esphome/aioesphomeapi/pull/1960) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 197 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 191 | [#178 fix: download folders through symlink roots](https://github.com/jhalter/mobius/pull/178) |
-| [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 180 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
-| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 156 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
+| [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 181 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
+| [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 157 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 140 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
 | [Dave-London/Pare](https://github.com/Dave-London/Pare) · ★ 139 | [#1156 fix(git): filter branch list by pattern with --list](https://github.com/Dave-London/Pare/pull/1156) |
 | [llm-exe/llm-exe](https://github.com/llm-exe/llm-exe) · ★ 136 | [#834 fix(parser): empty response content throws a coded parse error in LlmFunctionParser](https://github.com/llm-exe/llm-exe/pull/834) |
@@ -62,7 +64,7 @@
 | [BeppeTemp/cartographer](https://github.com/BeppeTemp/cartographer) · ★ 45 | [#934 fix(kb): stash with the server identity so a host without git identity can gate writes](https://github.com/BeppeTemp/cartographer/pull/934) |
 | [mapitman/mdview](https://github.com/mapitman/mdview) · ★ 39 | [#61 Fix image links with optional titles](https://github.com/mapitman/mdview/pull/61) |
 | [speedyk-005/yasbd-lib](https://github.com/speedyk-005/yasbd-lib) · ★ 34 | [#399 Recognize symmetric quotes as quoted spans](https://github.com/speedyk-005/yasbd-lib/pull/399) |
-| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) · ★ 32 | [#231 Announce palette changes to screen readers](https://github.com/yakew7/DesignHub/pull/231) |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) · ★ 33 | [#231 Announce palette changes to screen readers](https://github.com/yakew7/DesignHub/pull/231) |
 | [barisgit/KiLM](https://github.com/barisgit/KiLM) · ★ 30 | [#14 fix: stop leaf commands showing a COMMAND [ARGS] placeholder in usage](https://github.com/barisgit/KiLM/pull/14) |
 | [adrirubio/claude-deck](https://github.com/adrirubio/claude-deck) · ★ 29 | [#532 fix: parse naive API timestamps as UTC](https://github.com/adrirubio/claude-deck/pull/532) |
 | [mathiasrw/rexreplace](https://github.com/mathiasrw/rexreplace) · ★ 28 | [#737 Handle unknown encoding errors cleanly](https://github.com/mathiasrw/rexreplace/pull/737) |
@@ -103,6 +105,7 @@
 | [getvelox/velox](https://github.com/getvelox/velox) · ★ 5 | [#1115 Margin card: show only the true no-usage note](https://github.com/getvelox/velox/pull/1115) |
 | [linagora/cozy-settings](https://github.com/linagora/cozy-settings) · ★ 4 | [#877 Prevent permissions pages crashing while queries load](https://github.com/linagora/cozy-settings/pull/877) |
 |  | [#878 Treat whitespace-only username as empty in profile](https://github.com/linagora/cozy-settings/pull/878) |
+| [StepenkoAnatoli/Fetchproof](https://github.com/StepenkoAnatoli/Fetchproof) · ★ 4 | [#408 Fix FI sidecar conformance: array indices past 0 rejected by Node runner](https://github.com/StepenkoAnatoli/Fetchproof/pull/408) |
 | [TomStrepsil/replace-content-transformer](https://github.com/TomStrepsil/replace-content-transformer) · ★ 3 | [#84 [71] Stop waiting on replacements once cancelled or abandoned](https://github.com/TomStrepsil/replace-content-transformer/pull/84) |
 |  | [#83 [37] Report stream-relative match.index and drop match.input](https://github.com/TomStrepsil/replace-content-transformer/pull/83) |
 |  | [#79 [77] Keep text after nested matches across chunks](https://github.com/TomStrepsil/replace-content-transformer/pull/79) |
@@ -111,7 +114,6 @@
 | [dereksantos/cortex](https://github.com/dereksantos/cortex) · ★ 3 | [#286 feat(cli): cortex completion <bash\|zsh\|fish>](https://github.com/dereksantos/cortex/pull/286) |
 | [dheerajjha/show-your-work](https://github.com/dheerajjha/show-your-work) · ★ 3 | [#7 Detect empty test runs from additional runners](https://github.com/dheerajjha/show-your-work/pull/7) |
 | [phranck/musiccloud](https://github.com/phranck/musiccloud) · ★ 3 | [#630 fix(jiosaavn): map the album endpoint's actual response shape](https://github.com/phranck/musiccloud/pull/630) |
-| [StepenkoAnatoli/Fetchproof](https://github.com/StepenkoAnatoli/Fetchproof) · ★ 3 | [#408 Fix FI sidecar conformance: array indices past 0 rejected by Node runner](https://github.com/StepenkoAnatoli/Fetchproof/pull/408) |
 | [TJ7755/Lacuna](https://github.com/TJ7755/Lacuna) · ★ 3 | [#753 Run the Gaps artefact labels browser regression](https://github.com/TJ7755/Lacuna/pull/753) |
 | [TRNSYSJP/weapy](https://github.com/TRNSYSJP/weapy) · ★ 2 | [#19 fix: truncate negative temperatures toward zero when removing the remark digit](https://github.com/TRNSYSJP/weapy/pull/19) |
 |  | [#18 fix(wea2): return elevation in metres, not one tenth of it](https://github.com/TRNSYSJP/weapy/pull/18) |
