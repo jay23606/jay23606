@@ -1,28 +1,28 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**142 merged pull requests** across **111 repositories**. Most starred: [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,212, [restic/restic](https://github.com/restic/restic) · ★ 36,714, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,308, [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 13,537, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,254.
+**144 merged pull requests** across **113 repositories**. Most starred: [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,213, [restic/restic](https://github.com/restic/restic) · ★ 36,715, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,311, [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 13,537, [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,254.
 
 <details>
-<summary>Show all 111 repositories</summary>
+<summary>Show all 113 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,212 | [#3561 Report SC2236/SC2237 for negated test(1) commands](https://github.com/koalaman/shellcheck/pull/3561) |
-| [restic/restic](https://github.com/restic/restic) · ★ 36,714 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,308 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
+| [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,213 | [#3561 Report SC2236/SC2237 for negated test(1) commands](https://github.com/koalaman/shellcheck/pull/3561) |
+| [restic/restic](https://github.com/restic/restic) · ★ 36,715 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,311 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 13,537 | [#4198 fix: stop bare #N in comments, link text, colours and words becoming tickets](https://github.com/The-PR-Agent/pr-agent/pull/4198) |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,254 | [#13669 Fix imports in ORM documentation examples](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) · ★ 5,594 | [#1228 fix(cli): report NotInitializedError without a stack trace](https://github.com/Tencent/teamai-cli/pull/1228) |
 | [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,259 | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
 | [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,254 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,015 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,922 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
+| [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,016 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,924 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,740 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
-| [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,467 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
+| [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,468 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) · ★ 1,143 | [#298 fix(web): clarify proxy setting behavior (#297)](https://github.com/kookxiang/jellyfin-plugin-bangumi/pull/298) |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 641 | [#1026 fix(plugin): keep anchors and word boundaries from matching inside a character](https://github.com/eugenioenko/ttt/pull/1026) |
-| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 607 | [#735 Reject unrepresentable sandbox resource limits](https://github.com/microsoft/nvx/pull/735) |
+| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 624 | [#735 Reject unrepresentable sandbox resource limits](https://github.com/microsoft/nvx/pull/735) |
 |  | [#579 fix(sandbox): reserve /run, /run/nvx, and the /run/nvx/time tree as share targets](https://github.com/microsoft/nvx/pull/579) |
 |  | [#584 build: reject Ubuntu initramfs source edits made during packing](https://github.com/microsoft/nvx/pull/584) |
 |  | [#585 aci_edge_sandboxes: honor the timeout in async wait_with_output](https://github.com/microsoft/nvx/pull/585) |
@@ -37,6 +37,7 @@
 | [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 292 | [#3645 fix: open mobile bottom drawers as named modal dialogs](https://github.com/opencloud-eu/web/pull/3645) |
 | [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 252 | [#602 Fix inline calendar covering picker popup](https://github.com/fetrarij/ngx-daterangepicker-material/pull/602) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 219 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
+| [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) · ★ 198 | [#167 Reject cross-site pagination URLs](https://github.com/alexdlaird/amazon-orders/pull/167) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 197 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 191 | [#178 fix: download folders through symlink roots](https://github.com/jhalter/mobius/pull/178) |
 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 180 | [#651 fix(session): remove atomic-write leftovers with the session files](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
@@ -60,12 +61,13 @@
 | [mapitman/mdview](https://github.com/mapitman/mdview) · ★ 39 | [#61 Fix image links with optional titles](https://github.com/mapitman/mdview/pull/61) |
 | [speedyk-005/yasbd-lib](https://github.com/speedyk-005/yasbd-lib) · ★ 34 | [#399 Recognize symmetric quotes as quoted spans](https://github.com/speedyk-005/yasbd-lib/pull/399) |
 | [barisgit/KiLM](https://github.com/barisgit/KiLM) · ★ 30 | [#14 fix: stop leaf commands showing a COMMAND [ARGS] placeholder in usage](https://github.com/barisgit/KiLM/pull/14) |
+| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) · ★ 30 | [#231 Announce palette changes to screen readers](https://github.com/yakew7/DesignHub/pull/231) |
 | [adrirubio/claude-deck](https://github.com/adrirubio/claude-deck) · ★ 29 | [#532 fix: parse naive API timestamps as UTC](https://github.com/adrirubio/claude-deck/pull/532) |
-| [yakew7/DesignHub](https://github.com/yakew7/DesignHub) · ★ 29 | [#231 Announce palette changes to screen readers](https://github.com/yakew7/DesignHub/pull/231) |
 | [mathiasrw/rexreplace](https://github.com/mathiasrw/rexreplace) · ★ 28 | [#737 Handle unknown encoding errors cleanly](https://github.com/mathiasrw/rexreplace/pull/737) |
-| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) · ★ 24 | [#1052 fix(tui): no empty first line when a word is wider than the tooltip](https://github.com/flisk-sh/flisk/pull/1052) |
+| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) · ★ 25 | [#1052 fix(tui): no empty first line when a word is wider than the tooltip](https://github.com/flisk-sh/flisk/pull/1052) |
 | [getsotto/sotto](https://github.com/getsotto/sotto) · ★ 24 | [#638 fix(web): expire payer transfer invitations at their deadline](https://github.com/getsotto/sotto/pull/638) |
-| [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) · ★ 23 | [#86 fix(agent): validate non-empty agent name in Agent.__init__](https://github.com/GustavoBaranda/chatflow-agent/pull/86) |
+| [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent) · ★ 24 | [#86 fix(agent): validate non-empty agent name in Agent.__init__](https://github.com/GustavoBaranda/chatflow-agent/pull/86) |
+| [openslop/openslop](https://github.com/openslop/openslop) · ★ 24 | [#1014 Preserve video settings when applying templates](https://github.com/openslop/openslop/pull/1014) |
 | [richshaw/OpenSignup](https://github.com/richshaw/OpenSignup) · ★ 22 | [#497 Email states the real code lifetime, not the link's](https://github.com/richshaw/OpenSignup/pull/497) |
 |  | [#395 fix(commitments): stop returning editTokenHash from participant endpoints](https://github.com/richshaw/OpenSignup/pull/395) |
 | [Raven-Scout/Scout](https://github.com/Raven-Scout/Scout) · ★ 20 | [#426 fix(runner): read a calendar-date weekly limit reset](https://github.com/Raven-Scout/Scout/pull/426) |
@@ -100,16 +102,16 @@
 |  | [#83 [37] Report stream-relative match.index and drop match.input](https://github.com/TomStrepsil/replace-content-transformer/pull/83) |
 |  | [#79 [77] Keep text after nested matches across chunks](https://github.com/TomStrepsil/replace-content-transformer/pull/79) |
 | [benbenlijie/citeduo](https://github.com/benbenlijie/citeduo) · ★ 3 | [#14 test(server): cover rate limits on search and connect](https://github.com/benbenlijie/citeduo/pull/14) |
+| [codercops/toolbelt](https://github.com/codercops/toolbelt) · ★ 3 | [#143 Quote YAML strings that parsers read as numbers or dates](https://github.com/codercops/toolbelt/pull/143) |
 | [dereksantos/cortex](https://github.com/dereksantos/cortex) · ★ 3 | [#286 feat(cli): cortex completion <bash\|zsh\|fish>](https://github.com/dereksantos/cortex/pull/286) |
+| [dheerajjha/show-your-work](https://github.com/dheerajjha/show-your-work) · ★ 3 | [#7 Detect empty test runs from additional runners](https://github.com/dheerajjha/show-your-work/pull/7) |
 | [phranck/musiccloud](https://github.com/phranck/musiccloud) · ★ 3 | [#630 fix(jiosaavn): map the album endpoint's actual response shape](https://github.com/phranck/musiccloud/pull/630) |
 | [TRNSYSJP/weapy](https://github.com/TRNSYSJP/weapy) · ★ 2 | [#19 fix: truncate negative temperatures toward zero when removing the remark digit](https://github.com/TRNSYSJP/weapy/pull/19) |
 |  | [#18 fix(wea2): return elevation in metres, not one tenth of it](https://github.com/TRNSYSJP/weapy/pull/18) |
 | [bilalkumrani/sirgal](https://github.com/bilalkumrani/sirgal) · ★ 2 | [#18 fix: continue Drive scans after download failures](https://github.com/bilalkumrani/sirgal/pull/18) |
 | [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer) · ★ 2 | [#43 evals: measure one skill at a time with PE_EVAL_SKILL](https://github.com/Bubblegunn/product-engineer/pull/43) |
-| [codercops/toolbelt](https://github.com/codercops/toolbelt) · ★ 2 | [#143 Quote YAML strings that parsers read as numbers or dates](https://github.com/codercops/toolbelt/pull/143) |
 | [DennisVlaanderen/aerendil](https://github.com/DennisVlaanderen/aerendil) · ★ 2 | [#139 Redirect / to /login on the server instead of client-side](https://github.com/DennisVlaanderen/aerendil/pull/139) |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) · ★ 2 | [#105 Verify saved reviews export outside repositories](https://github.com/dheerajjha/reviewer/pull/105) |
-| [dheerajjha/show-your-work](https://github.com/dheerajjha/show-your-work) · ★ 2 | [#7 Detect empty test runs from additional runners](https://github.com/dheerajjha/show-your-work/pull/7) |
 | [DigiMonk73/BTCTX-MCP](https://github.com/DigiMonk73/BTCTX-MCP) · ★ 2 | [#205 fix(auth): refuse non-ASCII setup codes and over-long passwords without a 500](https://github.com/DigiMonk73/BTCTX-MCP/pull/205) |
 | [DivyashreeR008/Open-Agents](https://github.com/DivyashreeR008/Open-Agents) · ★ 2 | [#402 Announce voice input failures, stops, and final speech](https://github.com/DivyashreeR008/Open-Agents/pull/402) |
 | [DrNoisys-Softworks/gm-scriptorium](https://github.com/DrNoisys-Softworks/gm-scriptorium) · ★ 2 | [#167 fix(admin): preserve campaign switcher rows on refresh](https://github.com/DrNoisys-Softworks/gm-scriptorium/pull/167) |
@@ -153,5 +155,5 @@
 
 </details>
 
-_Updated 2026-10-21 (UTC) by a scheduled GitHub Action._
+_Updated 2026-10-22 (UTC) by a scheduled GitHub Action._
 <!-- contributions:end -->
