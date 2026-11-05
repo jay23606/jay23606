@@ -1,31 +1,32 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**342 merged pull requests** across **259 repositories**. Most starred: [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,614, [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,283, [restic/restic](https://github.com/restic/restic) · ★ 37,005, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,595, [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 14,771.
+**350 merged pull requests** across **262 repositories**. Most starred: [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,614, [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,283, [restic/restic](https://github.com/restic/restic) · ★ 37,012, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,598, [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 14,945.
 
 <details>
-<summary>Show all 259 repositories</summary>
+<summary>Show all 262 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
 | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,614 | [#4128 Fix htmx 2 to 4 event migration mappings](https://github.com/bigskysoftware/htmx/pull/4128) |
 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,283 | [#3561 Report SC2236/SC2237 for negated test(1) commands](https://github.com/koalaman/shellcheck/pull/3561) |
-| [restic/restic](https://github.com/restic/restic) · ★ 37,005 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,595 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 14,771 | [#4198 fix: stop bare #N in comments, link text, colours and words becoming tickets](https://github.com/The-PR-Agent/pr-agent/pull/4198) |
-| [webpro-nl/knip](https://github.com/webpro-nl/knip) · ★ 12,603 | [#2218 Fix strict mode for caught optional peer imports](https://github.com/webpro-nl/knip/pull/2218) |
+| [restic/restic](https://github.com/restic/restic) · ★ 37,012 | [#22111 ci: update golangci-lint to v2.14](https://github.com/restic/restic/pull/22111) |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,598 | [#1112 fix: keep TypeScript interfaces and type aliases out of test gaps](https://github.com/tirth8205/code-review-graph/pull/1112) |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 14,945 | [#4198 fix: stop bare #N in comments, link text, colours and words becoming tickets](https://github.com/The-PR-Agent/pr-agent/pull/4198) |
+| [webpro-nl/knip](https://github.com/webpro-nl/knip) · ★ 12,605 | [#2218 Fix strict mode for caught optional peer imports](https://github.com/webpro-nl/knip/pull/2218) |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,275 | [#13669 Fix imports in ORM documentation examples](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
-| [robotframework/robotframework](https://github.com/robotframework/robotframework) · ★ 11,981 | [#5824 Fix standard type links in REST libdoc](https://github.com/robotframework/robotframework/pull/5824) |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) · ★ 8,612 | [#2229 fix(daemon): send wake-ladder retries as OpenRig and pass workflow entry sender](https://github.com/mvschwarz/openrig/pull/2229) |
-| [repowise-dev/repowise](https://github.com/repowise-dev/repowise) · ★ 8,145 | [#4287 fix(cli): stop warning that the mock provider is unknown](https://github.com/repowise-dev/repowise/pull/4287) |
+| [robotframework/robotframework](https://github.com/robotframework/robotframework) · ★ 11,979 | [#5824 Fix standard type links in REST libdoc](https://github.com/robotframework/robotframework/pull/5824) |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) · ★ 8,640 | [#2229 fix(daemon): send wake-ladder retries as OpenRig and pass workflow entry sender](https://github.com/mvschwarz/openrig/pull/2229) |
+| [repowise-dev/repowise](https://github.com/repowise-dev/repowise) · ★ 8,150 | [#4287 fix(cli): stop warning that the mock provider is unknown](https://github.com/repowise-dev/repowise/pull/4287) |
 | [FullHuman/purgecss](https://github.com/FullHuman/purgecss) · ★ 8,052 | [#1504 fix(purgecss): keep :where() inside :not() when its selectors are unused](https://github.com/FullHuman/purgecss/pull/1504) |
 |  | [#1500 fix(grunt-purgecss): write output of every source file in a files entry](https://github.com/FullHuman/purgecss/pull/1500) |
-| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) · ★ 5,769 | [#1228 fix(cli): report NotInitializedError without a stack trace](https://github.com/Tencent/teamai-cli/pull/1228) |
-| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,374 | [#1051 fix(clipboard): quote SQL INSERT identifiers with the driver's quote character](https://github.com/TabularisDB/tabularis/pull/1051) |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) · ★ 5,773 | [#1228 fix(cli): report NotInitializedError without a stack trace](https://github.com/Tencent/teamai-cli/pull/1228) |
+| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,376 | [#1051 fix(clipboard): quote SQL INSERT identifiers with the driver's quote character](https://github.com/TabularisDB/tabularis/pull/1051) |
 |  | [#1047 fix(clipboard): quote CSV fields that contain the delimiter, a quote or a line break](https://github.com/TabularisDB/tabularis/pull/1047) |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,309 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,310 | [#1396 auth: use Bearer challenges for resource metadata](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [dagucloud/dagu](https://github.com/dagucloud/dagu) · ★ 4,547 | [#3536 Refuse elevated-window input on press and fail closed](https://github.com/dagucloud/dagu/pull/3536) |
 | [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,052 | [#1367 fix: serialize Nominatim requests and retry rate limits](https://github.com/open-wanderer/wanderer/pull/1367) |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,997 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 3,998 | [#1742 fix(transformations): use slash-aware path cleaning](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,741 | [#1174 Windows: fix cert generation and run all tests; fix fd leaks and runner abort race](https://github.com/fortio/fortio/pull/1174) |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,508 | [#1886 fix(calendar): wrap the header so Today and next fit a phone in French](https://github.com/chrisvel/tududi/pull/1886) |
 | [software-mansion/argent](https://github.com/software-mansion/argent) · ★ 3,160 | [#1602 Verify global Argent install is available on PATH](https://github.com/software-mansion/argent/pull/1602) |
@@ -35,12 +36,12 @@
 | [kovetskiy/mark](https://github.com/kovetskiy/mark) · ★ 1,612 | [#1122 fix(confluence): back off on zero retry-after](https://github.com/kovetskiy/mark/pull/1122) |
 | [growilabs/growi](https://github.com/growilabs/growi) · ★ 1,477 | [#12123 fix(opentelemetry): anonymize non-ASCII page paths](https://github.com/growilabs/growi/pull/12123) |
 |  | [#12104 fix(rate-limiter): match auth route paths consistently](https://github.com/growilabs/growi/pull/12104) |
-| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) · ★ 1,404 | [#5895 Complete hook command flag suggestions in every shell](https://github.com/vshulcz/deja-vu/pull/5895) |
+| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) · ★ 1,408 | [#5895 Complete hook command flag suggestions in every shell](https://github.com/vshulcz/deja-vu/pull/5895) |
 | [PyTables/PyTables](https://github.com/PyTables/PyTables) · ★ 1,375 | [#1392 CI: attest wheels and harden checkout credentials](https://github.com/PyTables/PyTables/pull/1392) |
-| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) · ★ 1,335 | [#16 Crop exported film to the card like the page does](https://github.com/blixvip/NullMotion/pull/16) |
+| [blixvip/NullMotion](https://github.com/blixvip/NullMotion) · ★ 1,338 | [#16 Crop exported film to the card like the page does](https://github.com/blixvip/NullMotion/pull/16) |
 | [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) · ★ 1,148 | [#298 fix(web): clarify proxy setting behavior (#297)](https://github.com/kookxiang/jellyfin-plugin-bangumi/pull/298) |
-| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 1,053 | [#1026 fix(plugin): keep anchors and word boundaries from matching inside a character](https://github.com/eugenioenko/ttt/pull/1026) |
-| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 816 | [#735 Reject unrepresentable sandbox resource limits](https://github.com/microsoft/nvx/pull/735) |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 1,056 | [#1026 fix(plugin): keep anchors and word boundaries from matching inside a character](https://github.com/eugenioenko/ttt/pull/1026) |
+| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 819 | [#735 Reject unrepresentable sandbox resource limits](https://github.com/microsoft/nvx/pull/735) |
 |  | [#579 fix(sandbox): reserve /run, /run/nvx, and the /run/nvx/time tree as share targets](https://github.com/microsoft/nvx/pull/579) |
 |  | [#584 build: reject Ubuntu initramfs source edits made during packing](https://github.com/microsoft/nvx/pull/584) |
 |  | [#585 aci_edge_sandboxes: honor the timeout in async wait_with_output](https://github.com/microsoft/nvx/pull/585) |
@@ -53,8 +54,8 @@
 |  | [#534 Stream ZIP release members with ZIP64 headers](https://github.com/microsoft/nvx/pull/534) |
 |  | [#530 Fix TCP console restore status wait timeout](https://github.com/microsoft/nvx/pull/530) |
 | [openOMSI-org/openOMSI](https://github.com/openOMSI-org/openOMSI) · ★ 736 | [#3442 Send the stop request of an AI passenger to its timetable bus](https://github.com/openOMSI-org/openOMSI/pull/3442) |
-| [voidzero-dev/void](https://github.com/voidzero-dev/void) · ★ 640 | [#593 docs: explain cleanup after platform database loss](https://github.com/voidzero-dev/void/pull/593) |
-| [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) · ★ 581 | [#1233 fix(markdown): show mode and rename info for hunkless file diffs](https://github.com/gitbutlerapp/grit/pull/1233) |
+| [voidzero-dev/void](https://github.com/voidzero-dev/void) · ★ 641 | [#593 docs: explain cleanup after platform database loss](https://github.com/voidzero-dev/void/pull/593) |
+| [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) · ★ 583 | [#1233 fix(markdown): show mode and rename info for hunkless file diffs](https://github.com/gitbutlerapp/grit/pull/1233) |
 | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) · ★ 517 | [#8578 Render countdown timer immediately](https://github.com/fork-commit-merge/fork-commit-merge/pull/8578) |
 |  | [#8437 Add /hello route returning Hello, World! in Django easy task](https://github.com/fork-commit-merge/fork-commit-merge/pull/8437) |
 |  | [#8422 Implement the Flask easy task root route](https://github.com/fork-commit-merge/fork-commit-merge/pull/8422) |
@@ -69,7 +70,7 @@
 | [Techiebutler/freeframe](https://github.com/Techiebutler/freeframe) · ★ 245 | [#513 fix(web): open the notification drawer beside an expanded sidebar](https://github.com/Techiebutler/freeframe/pull/513) |
 |  | [#512 fix(web): keep project settings edits when the project list refetches](https://github.com/Techiebutler/freeframe/pull/512) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 221 | [#9651 fix(gui): apply titles from Qt Designer files](https://github.com/randovania/randovania/pull/9651) |
-| [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) · ★ 205 | [#167 Reject cross-site pagination URLs](https://github.com/alexdlaird/amazon-orders/pull/167) |
+| [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) · ★ 206 | [#167 Reject cross-site pagination URLs](https://github.com/alexdlaird/amazon-orders/pull/167) |
 | [esphome/aioesphomeapi](https://github.com/esphome/aioesphomeapi) · ★ 200 | [#1960 fix: classify disconnected client errors](https://github.com/esphome/aioesphomeapi/pull/1960) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 197 | [#82 docs: add PM2 migration guide](https://github.com/Hexagon/pup/pull/82) |
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 193 | [#178 fix: download folders through symlink roots](https://github.com/jhalter/mobius/pull/178) |
@@ -78,21 +79,21 @@
 | [MustacheCase/zanadir](https://github.com/MustacheCase/zanadir) · ★ 181 | [#510 Recognise cargo nextest and Bats as unit tests](https://github.com/MustacheCase/zanadir/pull/510) |
 | [GoogleChromeLabs/css-web-ui-demos](https://github.com/GoogleChromeLabs/css-web-ui-demos) · ★ 179 | [#106 Fix billboard-video demo loading a missing script](https://github.com/GoogleChromeLabs/css-web-ui-demos/pull/106) |
 | [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 165 | [#8395 fix: add missing device idle translations](https://github.com/LanternOps/breeze/pull/8395) |
-| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 146 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
+| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 147 | [#185 Make AI defaults links keyboard-operable buttons](https://github.com/ldbumble/taskuary/pull/185) |
 | [lvcabral/brs-engine](https://github.com/lvcabral/brs-engine) · ★ 143 | [#1267 Fix roByteArray indexed reads without copying](https://github.com/lvcabral/brs-engine/pull/1267) |
 | [Dave-London/Pare](https://github.com/Dave-London/Pare) · ★ 140 | [#1156 fix(git): filter branch list by pattern with --list](https://github.com/Dave-London/Pare/pull/1156) |
 | [llm-exe/llm-exe](https://github.com/llm-exe/llm-exe) · ★ 136 | [#834 fix(parser): empty response content throws a coded parse error in LlmFunctionParser](https://github.com/llm-exe/llm-exe/pull/834) |
 | [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 124 | [#591 fix(cli): format NOT EXISTS without a nil dereference](https://github.com/ajitpratap0/GoSQLX/pull/591) |
 | [DouglasNeuroInformatics/OpenDataCapture](https://github.com/DouglasNeuroInformatics/OpenDataCapture) · ★ 119 | [#1809 fix(odc-cli): report the status for an error response with an empty body](https://github.com/DouglasNeuroInformatics/OpenDataCapture/pull/1809) |
-| [ssamurias/dsh-fish](https://github.com/ssamurias/dsh-fish) · ★ 117 | [#2 Fix fresh session wake prompt signal](https://github.com/ssamurias/dsh-fish/pull/2) |
+| [ssamurias/dsh-fish](https://github.com/ssamurias/dsh-fish) · ★ 119 | [#2 Fix fresh session wake prompt signal](https://github.com/ssamurias/dsh-fish/pull/2) |
+| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 112 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo) · ★ 112 | [#7639 fix(classifier): keep task tab focus on activation](https://github.com/zooniverse/front-end-monorepo/pull/7639) |
-| [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 111 | [#453 fix: compare precomputed Solution objects](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [zsviczian/kplex](https://github.com/zsviczian/kplex) · ★ 105 | [#259 Preserve frontmatter URL labels across indexing and cache reloads](https://github.com/zsviczian/kplex/pull/259) |
-| [nubo-db/dynoxide](https://github.com/nubo-db/dynoxide) · ★ 104 | [#269 Fix PartiQL OR reads on shared partition key](https://github.com/nubo-db/dynoxide/pull/269) |
-| [appandflow/stim](https://github.com/appandflow/stim) · ★ 98 | [#4435 Fix Windows offload cache hits with CRLF tar listings](https://github.com/appandflow/stim/pull/4435) |
+| [nubo-db/dynoxide](https://github.com/nubo-db/dynoxide) · ★ 103 | [#269 Fix PartiQL OR reads on shared partition key](https://github.com/nubo-db/dynoxide/pull/269) |
+| [appandflow/stim](https://github.com/appandflow/stim) · ★ 99 | [#4435 Fix Windows offload cache hits with CRLF tar listings](https://github.com/appandflow/stim/pull/4435) |
 |  | [#4432 Cancel hosted launch readiness waits on Ctrl-C](https://github.com/appandflow/stim/pull/4432) |
 | [gardener/external-dns-management](https://github.com/gardener/external-dns-management) · ★ 96 | [#1151 aws-route53: use GovCloud/China region for `aws-us-gov`/`aws-cn` workload identity roles](https://github.com/gardener/external-dns-management/pull/1151) |
-| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 94 | [#140 Add a Node.js example client for /api/analyze](https://github.com/pablocaeg/sloptotal/pull/140) |
+| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 95 | [#140 Add a Node.js example client for /api/analyze](https://github.com/pablocaeg/sloptotal/pull/140) |
 |  | [#134 Make Copy link work on non-HTTPS self-hosted servers](https://github.com/pablocaeg/sloptotal/pull/134) |
 | [HarperFast/harper](https://github.com/HarperFast/harper) · ★ 91 | [#3185 Block agent http_fetch from operations API ports](https://github.com/HarperFast/harper/pull/3185) |
 | [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 78 | [#1614 fix: watch project inputs in dev commands](https://github.com/Avenx-JS/avenx-js/pull/1614) |
@@ -134,7 +135,7 @@
 |  | [#1120 Settle pending tool calls when the user stops Sloppy](https://github.com/openslop/openslop/pull/1120) |
 |  | [#1014 Preserve video settings when applying templates](https://github.com/openslop/openslop/pull/1014) |
 | [adrirubio/claude-deck](https://github.com/adrirubio/claude-deck) · ★ 31 | [#532 fix: parse naive API timestamps as UTC](https://github.com/adrirubio/claude-deck/pull/532) |
-| [barisgit/KiLM](https://github.com/barisgit/KiLM) · ★ 30 | [#14 fix: stop leaf commands showing a COMMAND [ARGS] placeholder in usage](https://github.com/barisgit/KiLM/pull/14) |
+| [barisgit/KiLM](https://github.com/barisgit/KiLM) · ★ 31 | [#14 fix: stop leaf commands showing a COMMAND [ARGS] placeholder in usage](https://github.com/barisgit/KiLM/pull/14) |
 | [transit-audio/transit](https://github.com/transit-audio/transit) · ★ 30 | [#46 Test factory preset selection without config directory](https://github.com/transit-audio/transit/pull/46) |
 | [mathiasrw/rexreplace](https://github.com/mathiasrw/rexreplace) · ★ 28 | [#737 Handle unknown encoding errors cleanly](https://github.com/mathiasrw/rexreplace/pull/737) |
 | [glsec/glsec](https://github.com/glsec/glsec) · ★ 25 | [#864 GL004: advise $CI_API_V4_URL for GitLab-shaped URLs on self-hosted instances](https://github.com/glsec/glsec/pull/864) |
@@ -148,7 +149,7 @@
 | [Raven-Scout/Scout](https://github.com/Raven-Scout/Scout) · ★ 20 | [#426 fix(runner): read a calendar-date weekly limit reset](https://github.com/Raven-Scout/Scout/pull/426) |
 | [windsorcli/cli](https://github.com/windsorcli/cli) · ★ 20 | [#3547 fix(cmd): validate the context being switched to, not the one being left](https://github.com/windsorcli/cli/pull/3547) |
 | [getsotto/sotto](https://github.com/getsotto/sotto) · ★ 19 | [#638 fix(web): expire payer transfer invitations at their deadline](https://github.com/getsotto/sotto/pull/638) |
-| [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) · ★ 17 | [#133 Add lorem ipsum command](https://github.com/codepiyusss/open_source_issue_contribution/pull/133) |
+| [codepiyusss/open_source_issue_contribution](https://github.com/codepiyusss/open_source_issue_contribution) · ★ 18 | [#133 Add lorem ipsum command](https://github.com/codepiyusss/open_source_issue_contribution/pull/133) |
 |  | [#134 Add Kelvin conversions (c2k and k2c)](https://github.com/codepiyusss/open_source_issue_contribution/pull/134) |
 |  | [#51 Add UUID generator command](https://github.com/codepiyusss/open_source_issue_contribution/pull/51) |
 | [mholzi/quizify](https://github.com/mholzi/quizify) · ★ 17 | [#1068 fix(pack-submissions): save records atomically](https://github.com/mholzi/quizify/pull/1068) |
@@ -167,15 +168,16 @@
 | [PeterHartwieg/big-copilot](https://github.com/PeterHartwieg/big-copilot) · ★ 10 | [#557 Pass order checklist inputs as an object](https://github.com/PeterHartwieg/big-copilot/pull/557) |
 | [a11yhood/a11yhood.github.io](https://github.com/a11yhood/a11yhood.github.io) · ★ 9 | [#553 fix: keep product submission errors announced](https://github.com/a11yhood/a11yhood.github.io/pull/553) |
 | [danielgraviet/concrete](https://github.com/danielgraviet/concrete) · ★ 9 | [#64 test(quiz): cover markdown round trips](https://github.com/danielgraviet/concrete/pull/64) |
+| [gethardcount/hardcount](https://github.com/gethardcount/hardcount) · ★ 8 | [#1115 Margin card: show only the true no-usage note](https://github.com/gethardcount/hardcount/pull/1115) |
 | [iamkarlson/grocy-py](https://github.com/iamkarlson/grocy-py) · ★ 8 | [#30 fix(errors): GrocyError handles non-JSON and JSON-without-message bodies](https://github.com/iamkarlson/grocy-py/pull/30) |
 | [mistersilver-uk/fabricate](https://github.com/mistersilver-uk/fabricate) · ★ 8 | [#2507 fix(#2280): catch a rejected crafting show in openGrant](https://github.com/mistersilver-uk/fabricate/pull/2507) |
+| [wrsilva/reis-mobile](https://github.com/wrsilva/reis-mobile) · ★ 8 | [#21 docs: add iOS Keychain token storage guide](https://github.com/wrsilva/reis-mobile/pull/21) |
 | [openvibely/openvibely](https://github.com/openvibely/openvibely) · ★ 7 | [#1458 Propagate task context into HTTP MCP tool calls](https://github.com/openvibely/openvibely/pull/1458) |
 |  | [#1454 fix: truncate webhook titles on UTF-8 boundaries](https://github.com/openvibely/openvibely/pull/1454) |
 | [continuous-dems/fetchez](https://github.com/continuous-dems/fetchez) · ★ 7 | [#481 fix(api): dry run reads the flat results list](https://github.com/continuous-dems/fetchez/pull/481) |
-| [gethardcount/hardcount](https://github.com/gethardcount/hardcount) · ★ 7 | [#1115 Margin card: show only the true no-usage note](https://github.com/gethardcount/hardcount/pull/1115) |
 | [MedakaLang/medaka](https://github.com/MedakaLang/medaka) · ★ 7 | [#4860 Keep lint stderr out of the pre-commit finding filter (#4859)](https://github.com/MedakaLang/medaka/pull/4860) |
 | [sorotrail/SoroTrail](https://github.com/sorotrail/SoroTrail) · ★ 7 | [#1086 fix(api): answer 501 when a backend does not support an operation](https://github.com/sorotrail/SoroTrail/pull/1086) |
-| [wrsilva/reis-mobile](https://github.com/wrsilva/reis-mobile) · ★ 7 | [#21 docs: add iOS Keychain token storage guide](https://github.com/wrsilva/reis-mobile/pull/21) |
+| [HvKOkla/RoboControl-3D](https://github.com/HvKOkla/RoboControl-3D) · ★ 6 | [#11 Correct DH transforms in URDF export](https://github.com/HvKOkla/RoboControl-3D/pull/11) |
 | [mloda-ai/mloda-registry](https://github.com/mloda-ai/mloda-registry) · ★ 6 | [#1332 fix: return None from class_attribute without an owner](https://github.com/mloda-ai/mloda-registry/pull/1332) |
 | [Velmet44/rmbg](https://github.com/Velmet44/rmbg) · ★ 6 | [#4 Validate model provenance manifest in CI (validate:manifest)](https://github.com/Velmet44/rmbg/pull/4) |
 | [Edwin-metcalf/MetCode](https://github.com/Edwin-metcalf/MetCode) · ★ 5 | [#21 Add --version flag](https://github.com/Edwin-metcalf/MetCode/pull/21) |
@@ -200,7 +202,6 @@
 |  | [#878 Treat whitespace-only username as empty in profile](https://github.com/linagora/cozy-settings/pull/878) |
 | [davhodg/pycangui](https://github.com/davhodg/pycangui) · ★ 4 | [#8 Keep cursor checkbox sized with text changes](https://github.com/davhodg/pycangui/pull/8) |
 | [dheerajjha/show-your-work](https://github.com/dheerajjha/show-your-work) · ★ 4 | [#7 Detect empty test runs from additional runners](https://github.com/dheerajjha/show-your-work/pull/7) |
-| [HvKOkla/RoboControl-3D](https://github.com/HvKOkla/RoboControl-3D) · ★ 4 | [#11 Correct DH transforms in URDF export](https://github.com/HvKOkla/RoboControl-3D/pull/11) |
 | [jordan-chou/propel](https://github.com/jordan-chou/propel) · ★ 4 | [#55 Keep HTML entities in attribute value color](https://github.com/jordan-chou/propel/pull/55) |
 | [JunaidAhamed-7777/DrainTracer](https://github.com/JunaidAhamed-7777/DrainTracer) · ★ 4 | [#143 Validate request timeout for every agent command](https://github.com/JunaidAhamed-7777/DrainTracer/pull/143) |
 | [mihazs/agent-harness-lab](https://github.com/mihazs/agent-harness-lab) · ★ 4 | [#40 Explain fresh output path when diagnosis refuses an existing directory](https://github.com/mihazs/agent-harness-lab/pull/40) |
@@ -222,6 +223,7 @@
 | [benbenlijie/citeduo](https://github.com/benbenlijie/citeduo) · ★ 3 | [#14 test(server): cover rate limits on search and connect](https://github.com/benbenlijie/citeduo/pull/14) |
 | [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) · ★ 3 | [#1267 Handle non-UTF-8 flake.nix files cleanly](https://github.com/dezren39/darwin-nix/pull/1267) |
 | [eyadstein/leaklens](https://github.com/eyadstein/leaklens) · ★ 3 | [#6 Fix Parquet input regression test](https://github.com/eyadstein/leaklens/pull/6) |
+| [gtref/OPEN-ISSUE-CONTRIBUTION](https://github.com/gtref/OPEN-ISSUE-CONTRIBUTION) · ★ 3 | [#11 Restore CLI tests for password length feature](https://github.com/gtref/OPEN-ISSUE-CONTRIBUTION/pull/11) |
 | [Jartan-LLC/grimoire](https://github.com/Jartan-LLC/grimoire) · ★ 3 | [#84 fix(hooks): print nothing for malformed stdin in gitwise and praxis](https://github.com/Jartan-LLC/grimoire/pull/84) |
 | [kubestellar/console-marketplace](https://github.com/kubestellar/console-marketplace) · ★ 3 | [#972 Fix workflow failure monitor self-reference](https://github.com/kubestellar/console-marketplace/pull/972) |
 | [opsmill/infrahub-demo-sp](https://github.com/opsmill/infrahub-demo-sp) · ★ 3 | [#158 Batfish session ignores BATFISH_PORT and always connects to 9996](https://github.com/opsmill/infrahub-demo-sp/pull/158) |
@@ -229,6 +231,12 @@
 | [RANJITHROSAN17/morrow-editor](https://github.com/RANJITHROSAN17/morrow-editor) · ★ 3 | [#27 Rank Quick Open workspace files by basename and path boundary](https://github.com/RANJITHROSAN17/morrow-editor/pull/27) |
 | [theluckystrike/100xagenticdev](https://github.com/theluckystrike/100xagenticdev) · ★ 3 | [#6 runner.py: reject zero or negative agent, fan-out and budget values](https://github.com/theluckystrike/100xagenticdev/pull/6) |
 | [um1b/kitebook](https://github.com/um1b/kitebook) · ★ 3 | [#10 Show parameters for an individual op](https://github.com/um1b/kitebook/pull/10) |
+| [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad) · ★ 2 | [#29 Add readable Markdown export](https://github.com/laaielichter/Stashpad/pull/29) |
+|  | [#28 Read Codex CLI patches and user messages in the handoff summary](https://github.com/laaielichter/Stashpad/pull/28) |
+|  | [#27 Add audit filtering and limit options](https://github.com/laaielichter/Stashpad/pull/27) |
+|  | [#26 Make Latin search accent-insensitive](https://github.com/laaielichter/Stashpad/pull/26) |
+|  | [#20 Log misses for JSON CLI searches](https://github.com/laaielichter/Stashpad/pull/20) |
+|  | [#18 lint: report pinned memories that ended or are missing](https://github.com/laaielichter/Stashpad/pull/18) |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) · ★ 2 | [#59 Accept unique abbreviated SHAs in revision lookup](https://github.com/YO-WHATS-UP2/minigit/pull/59) |
 |  | [#58 Add minigit rev-parse](https://github.com/YO-WHATS-UP2/minigit/pull/58) |
 |  | [#46 Add `minigit commit -a` (closes #15)](https://github.com/YO-WHATS-UP2/minigit/pull/46) |
@@ -237,8 +245,6 @@
 |  | [#22 Render GitHub alerts and Obsidian callouts](https://github.com/dheerajjha/margins/pull/22) |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) · ★ 2 | [#133 Quote comment text in prompt exports](https://github.com/dheerajjha/reviewer/pull/133) |
 |  | [#105 Verify saved reviews export outside repositories](https://github.com/dheerajjha/reviewer/pull/105) |
-| [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad) · ★ 2 | [#20 Log misses for JSON CLI searches](https://github.com/laaielichter/Stashpad/pull/20) |
-|  | [#18 lint: report pinned memories that ended or are missing](https://github.com/laaielichter/Stashpad/pull/18) |
 | [TRNSYSJP/weapy](https://github.com/TRNSYSJP/weapy) · ★ 2 | [#19 fix: truncate negative temperatures toward zero when removing the remark digit](https://github.com/TRNSYSJP/weapy/pull/19) |
 |  | [#18 fix(wea2): return elevation in metres, not one tenth of it](https://github.com/TRNSYSJP/weapy/pull/18) |
 | [bilalkumrani/sirgal](https://github.com/bilalkumrani/sirgal) · ★ 2 | [#18 fix: continue Drive scans after download failures](https://github.com/bilalkumrani/sirgal/pull/18) |
@@ -252,7 +258,6 @@
 | [DuongAnh1201/tomville](https://github.com/DuongAnh1201/tomville) · ★ 2 | [#69 tmv up: report running agent waiting for an answer as running, not FAILED](https://github.com/DuongAnh1201/tomville/pull/69) |
 | [flisk-sh/fliskos](https://github.com/flisk-sh/fliskos) · ★ 2 | [#123 Mark the form field that failed validation](https://github.com/flisk-sh/fliskos/pull/123) |
 | [graphviz-pure/graphviz-pure](https://github.com/graphviz-pure/graphviz-pure) · ★ 2 | [#61 Skip empty splines during component packing](https://github.com/graphviz-pure/graphviz-pure/pull/61) |
-| [gtref/OPEN-ISSUE-CONTRIBUTION](https://github.com/gtref/OPEN-ISSUE-CONTRIBUTION) · ★ 2 | [#11 Restore CLI tests for password length feature](https://github.com/gtref/OPEN-ISSUE-CONTRIBUTION/pull/11) |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) · ★ 2 | [#266 fix(cluster-gitops): validate checks the built manifests](https://github.com/ika100/sdlc-foundry/pull/266) |
 | [jalvesnicacio/compose-diagrams](https://github.com/jalvesnicacio/compose-diagrams) · ★ 2 | [#20 fix: reject malformed service definitions](https://github.com/jalvesnicacio/compose-diagrams/pull/20) |
 | [jay-the-maker/albumen](https://github.com/jay-the-maker/albumen) · ★ 2 | [#75 Add shell completions subcommand for albumen](https://github.com/jay-the-maker/albumen/pull/75) |
@@ -260,6 +265,7 @@
 | [matheussilvano/moodle-mcp](https://github.com/matheussilvano/moodle-mcp) · ★ 2 | [#13 Support .odt/.ods/.odp text extraction](https://github.com/matheussilvano/moodle-mcp/pull/13) |
 | [openwarelabs/open-paste](https://github.com/openwarelabs/open-paste) · ★ 2 | [#22 fix(shelf): show the site name for links that contain %](https://github.com/openwarelabs/open-paste/pull/22) |
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) · ★ 2 | [#61 Clamp oversized maxChars and maxResults in agent tools](https://github.com/petertzy/deeplocal-chat-adapter/pull/61) |
+| [raoulg/atlas](https://github.com/raoulg/atlas) · ★ 2 | [#294 Keep MCP sessions alive after invalid UTF-8](https://github.com/raoulg/atlas/pull/294) |
 | [RizgarOzan/match3-lab](https://github.com/RizgarOzan/match3-lab) · ★ 2 | [#9 Add Rainfall level with empty starting cells](https://github.com/RizgarOzan/match3-lab/pull/9) |
 | [Sean074/sbeam](https://github.com/Sean074/sbeam) · ★ 2 | [#40 Refuse PARAM,WTMASS != 1.0 instead of silently skipping it](https://github.com/Sean074/sbeam/pull/40) |
 | [sumitjadhav1703/Lazarus_Sentinel](https://github.com/sumitjadhav1703/Lazarus_Sentinel) · ★ 2 | [#49 frontend: add skip link and labelled landmarks](https://github.com/sumitjadhav1703/Lazarus_Sentinel/pull/49) |
@@ -275,6 +281,8 @@
 | [philorien/dcma-site](https://github.com/philorien/dcma-site) · ★ 1 | [#87 fix(a11y): dark-mode primary buttons meet 4.5:1 contrast](https://github.com/philorien/dcma-site/pull/87) |
 |  | [#82 Add section headings to the About page](https://github.com/philorien/dcma-site/pull/82) |
 |  | [#83 Fix duplicate section heading IDs](https://github.com/philorien/dcma-site/pull/83) |
+| [jmerifjKriwe/narrare](https://github.com/jmerifjKriwe/narrare) · ★ 1 | [#524 chore(db): resolve alembic prepend_sys_path from the ini location](https://github.com/jmerifjKriwe/narrare/pull/524) |
+|  | [#525 test(knowledge): cover vanished tag filters](https://github.com/jmerifjKriwe/narrare/pull/525) |
 | [jzheaux/reader](https://github.com/jzheaux/reader) · ★ 1 | [#117 Preserve contrast for done tasks](https://github.com/jzheaux/reader/pull/117) |
 |  | [#132 Hide speaker controls from assistive technology while waiting](https://github.com/jzheaux/reader/pull/132) |
 | [khuisman/mcp-gee-sweet](https://github.com/khuisman/mcp-gee-sweet) · ★ 1 | [#1138 Reset blank paragraph before a table to NORMAL_TEXT (#1092)](https://github.com/khuisman/mcp-gee-sweet/pull/1138) |
@@ -330,7 +338,7 @@
 | [myrgic/bot-foundry](https://github.com/myrgic/bot-foundry) · ★ 1 | [#43 Reject zero-length pose rotations instead of zeroing them](https://github.com/myrgic/bot-foundry/pull/43) |
 | [PainterFlow/Anytype-BlobUI](https://github.com/PainterFlow/Anytype-BlobUI) · ★ 1 | [#61 Test API access hover accent in Chrome](https://github.com/PainterFlow/Anytype-BlobUI/pull/61) |
 | [philorien/pellikan](https://github.com/philorien/pellikan) · ★ 1 | [#30 a11y: add a skip link to main content](https://github.com/philorien/pellikan/pull/30) |
-| [raoulg/atlas](https://github.com/raoulg/atlas) · ★ 1 | [#294 Keep MCP sessions alive after invalid UTF-8](https://github.com/raoulg/atlas/pull/294) |
+| [raven-clown/transponder](https://github.com/raven-clown/transponder) · ★ 1 | [#30 fix(test): select shutdown regression test in cmd.exe](https://github.com/raven-clown/transponder/pull/30) |
 | [Robert-GeorgeDev/ValidRO](https://github.com/Robert-GeorgeDev/ValidRO) · ★ 1 | [#12 Add Romanian postal code validator](https://github.com/Robert-GeorgeDev/ValidRO/pull/12) |
 | [rossoctl/eventing-lab](https://github.com/rossoctl/eventing-lab) · ★ 1 | [#19 fix(eventing): resolve ntfy store from ownership index in multi-tenant mode](https://github.com/rossoctl/eventing-lab/pull/19) |
 | [silica-ephemera/lupin](https://github.com/silica-ephemera/lupin) · ★ 1 | [#149 route: report an unknown category as a usage error](https://github.com/silica-ephemera/lupin/pull/149) |
