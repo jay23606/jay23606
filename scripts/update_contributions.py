@@ -28,11 +28,17 @@ def merged_prs() -> list:
 
 
 def stars(full: str):
-    """Stargazer count, or None when GitHub will not say (a deleted or renamed repository)."""
+    """Stargazer count, or None for a missing repository (HTTP 404)."""
     result = subprocess.run(["gh", "api", f"repos/{full}", "--jq", ".stargazers_count"],
                             capture_output=True, text=True)
+    if result.returncode != 0:
+        if re.search(r"\bHTTP 404\b", result.stderr or ""):
+            return None
+        raise RuntimeError(f"Cannot fetch stars for {full} (gh exit {result.returncode})")
     text = result.stdout.strip()
-    return int(text) if result.returncode == 0 and text.isdigit() else None
+    if not text.isdigit():
+        raise ValueError(f"Invalid stargazer count for {full}")
+    return int(text)
 
 
 def cell(text: str) -> str:
