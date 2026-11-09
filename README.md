@@ -1,3 +1,5 @@
+[![Founding Contributor #5 @jay23606](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%235%20of%20100%20%E2%80%A2%20%40jay23606&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+
 ## Open source contributions
 
 <!-- contributions:start -->
