@@ -1,15 +1,15 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**468 merged pull requests** across **320 repositories**. Most starred: [nodejs/node](https://github.com/nodejs/node) · ★ 123,461, [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,626, [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,317, [restic/restic](https://github.com/restic/restic) · ★ 37,128, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,693.
+**468 merged pull requests** across **320 repositories**. Most starred: [nodejs/node](https://github.com/nodejs/node) · ★ 123,463, [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,627, [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,317, [restic/restic](https://github.com/restic/restic) · ★ 37,128, [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,693.
 
 <details>
 <summary>Show all 320 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [nodejs/node](https://github.com/nodejs/node) · ★ 123,461 | [#67242](https://github.com/nodejs/node/pull/67242) |
-| [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,626 | [#4128](https://github.com/bigskysoftware/htmx/pull/4128) |
+| [nodejs/node](https://github.com/nodejs/node) · ★ 123,463 | [#67242](https://github.com/nodejs/node/pull/67242) |
+| [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,627 | [#4128](https://github.com/bigskysoftware/htmx/pull/4128) |
 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,317 | [#3561](https://github.com/koalaman/shellcheck/pull/3561) |
 | [restic/restic](https://github.com/restic/restic) · ★ 37,128 | [#22111](https://github.com/restic/restic/pull/22111) |
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,693 | [#1122](https://github.com/tirth8205/code-review-graph/pull/1122), [#1124](https://github.com/tirth8205/code-review-graph/pull/1124), [#1112](https://github.com/tirth8205/code-review-graph/pull/1112) |
@@ -48,7 +48,7 @@
 | [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) · ★ 1,038 | [#2807](https://github.com/desplega-ai/agent-swarm/pull/2807) |
 | [python-social-auth/social-core](https://github.com/python-social-auth/social-core) · ★ 928 | [#2163](https://github.com/python-social-auth/social-core/pull/2163) |
 | [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 835 | [#735](https://github.com/microsoft/nvx/pull/735), [#579](https://github.com/microsoft/nvx/pull/579), [#584](https://github.com/microsoft/nvx/pull/584), [#585](https://github.com/microsoft/nvx/pull/585), [#578](https://github.com/microsoft/nvx/pull/578), [#577](https://github.com/microsoft/nvx/pull/577), [#576](https://github.com/microsoft/nvx/pull/576), [#580](https://github.com/microsoft/nvx/pull/580), [#582](https://github.com/microsoft/nvx/pull/582), [#523](https://github.com/microsoft/nvx/pull/523), [#534](https://github.com/microsoft/nvx/pull/534), [#530](https://github.com/microsoft/nvx/pull/530) |
-| [openOMSI-org/openOMSI](https://github.com/openOMSI-org/openOMSI) · ★ 754 | [#3442](https://github.com/openOMSI-org/openOMSI/pull/3442) |
+| [openOMSI-org/openOMSI](https://github.com/openOMSI-org/openOMSI) · ★ 755 | [#3442](https://github.com/openOMSI-org/openOMSI/pull/3442) |
 | [voidzero-dev/void](https://github.com/voidzero-dev/void) · ★ 671 | [#593](https://github.com/voidzero-dev/void/pull/593) |
 | [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) · ★ 630 | [#803](https://github.com/mogenius/renovate-operator/pull/803) |
 | [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) · ★ 605 | [#648](https://github.com/Cygnux-Labs/Tracekit/pull/648) |
