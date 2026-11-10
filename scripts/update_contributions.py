@@ -40,9 +40,15 @@ def cell(text: str) -> str:
     return " ".join(text.replace("|", "\\|").split())
 
 
+BADGES = {  # repository -> badge shown in its row of the table
+    "flisk-sh/run-my-agents": "[![Founding Contributor #5 @jay23606](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%235%20of%20100%20%E2%80%A2%20%40jay23606&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)",
+}
+
+
 def repo_cell(full: str, count) -> str:
     stars_text = f" · ★ {count:,}" if count is not None else ""
-    return f"[{full}](https://github.com/{full}){stars_text}"
+    badge = f" {BADGES[full]}" if full in BADGES else ""
+    return f"[{full}](https://github.com/{full}){stars_text}{badge}"
 
 
 def section(prs: list) -> str:
@@ -58,9 +64,8 @@ def section(prs: list) -> str:
     rows = []
     for r in repos:
         merged = sorted(by_repo[r], key=lambda p: p["closedAt"], reverse=True)
-        for i, pr in enumerate(merged):
-            name = repo_cell(r, star_counts[r]) if i == 0 else ""  # repository name once per group
-            rows.append(f"| {name} | [#{pr['number']} {cell(pr['title'])}]({pr['url']}) |")
+        numbers = ", ".join(f"[#{pr['number']}]({pr['url']})" for pr in merged)  # one row per repository
+        rows.append(f"| {repo_cell(r, star_counts[r])} | {numbers} |")
     return "\n".join([
         f"**{len(prs)} merged pull requests** across **{len(repos)} repositories**. Most starred: {top}.",
         "",
