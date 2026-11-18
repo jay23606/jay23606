@@ -1,91 +1,96 @@
 ## Open source contributions
 
 <!-- contributions:start -->
-**626 merged pull requests** across **394 repositories**. Most starred: [nodejs/node](https://github.com/nodejs/node) · ★ 123,902, [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,650, [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) · ★ 42,049, [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,360, [NervJS/taro](https://github.com/NervJS/taro) · ★ 37,753.
+**648 merged pull requests** across **407 repositories**. Most starred: [nodejs/node](https://github.com/nodejs/node) · ★ 123,781, [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,650, [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) · ★ 42,057, [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,362, [NervJS/taro](https://github.com/NervJS/taro) · ★ 37,754.
 
 <details>
-<summary>Show all 394 repositories</summary>
+<summary>Show all 407 repositories</summary>
 
 | Repository | Pull request |
 | --- | --- |
-| [nodejs/node](https://github.com/nodejs/node) · ★ 123,902 | [#67242](https://github.com/nodejs/node/pull/67242) |
+| [nodejs/node](https://github.com/nodejs/node) · ★ 123,781 | [#67242](https://github.com/nodejs/node/pull/67242) |
 | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) · ★ 49,650 | [#4128](https://github.com/bigskysoftware/htmx/pull/4128) |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) · ★ 42,049 | [#1615](https://github.com/lfnovo/open-notebook/pull/1615) |
-| [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,360 | [#3561](https://github.com/koalaman/shellcheck/pull/3561) |
-| [NervJS/taro](https://github.com/NervJS/taro) · ★ 37,753 | [#19629](https://github.com/NervJS/taro/pull/19629) |
-| [restic/restic](https://github.com/restic/restic) · ★ 37,282 | [#22111](https://github.com/restic/restic/pull/22111) |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,827 | [#1122](https://github.com/tirth8205/code-review-graph/pull/1122), [#1124](https://github.com/tirth8205/code-review-graph/pull/1124), [#1112](https://github.com/tirth8205/code-review-graph/pull/1112) |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 16,342 | [#4922](https://github.com/The-PR-Agent/pr-agent/pull/4922), [#4746](https://github.com/The-PR-Agent/pr-agent/pull/4746), [#4198](https://github.com/The-PR-Agent/pr-agent/pull/4198) |
-| [webpro-nl/knip](https://github.com/webpro-nl/knip) · ★ 12,687 | [#2218](https://github.com/webpro-nl/knip/pull/2218) |
-| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,295 | [#13669](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
-| [robotframework/robotframework](https://github.com/robotframework/robotframework) · ★ 11,990 | [#5824](https://github.com/robotframework/robotframework/pull/5824) |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) · ★ 8,884 | [#2229](https://github.com/mvschwarz/openrig/pull/2229) |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) · ★ 42,057 | [#1615](https://github.com/lfnovo/open-notebook/pull/1615) |
+| [koalaman/shellcheck](https://github.com/koalaman/shellcheck) · ★ 40,362 | [#3561](https://github.com/koalaman/shellcheck/pull/3561) |
+| [NervJS/taro](https://github.com/NervJS/taro) · ★ 37,754 | [#19629](https://github.com/NervJS/taro/pull/19629) |
+| [restic/restic](https://github.com/restic/restic) · ★ 37,288 | [#22111](https://github.com/restic/restic/pull/22111) |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) · ★ 32,838 | [#1122](https://github.com/tirth8205/code-review-graph/pull/1122), [#1124](https://github.com/tirth8205/code-review-graph/pull/1124), [#1112](https://github.com/tirth8205/code-review-graph/pull/1112) |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) · ★ 16,359 | [#4922](https://github.com/The-PR-Agent/pr-agent/pull/4922), [#4746](https://github.com/The-PR-Agent/pr-agent/pull/4746), [#4198](https://github.com/The-PR-Agent/pr-agent/pull/4198) |
+| [webpro-nl/knip](https://github.com/webpro-nl/knip) · ★ 12,691 | [#2218](https://github.com/webpro-nl/knip/pull/2218) |
+| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) · ★ 12,296 | [#13669](https://github.com/sqlalchemy/sqlalchemy/pull/13669) |
+| [robotframework/robotframework](https://github.com/robotframework/robotframework) · ★ 11,993 | [#5824](https://github.com/robotframework/robotframework/pull/5824) |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) · ★ 8,885 | [#2229](https://github.com/mvschwarz/openrig/pull/2229) |
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) · ★ 8,170 | [#4287](https://github.com/repowise-dev/repowise/pull/4287) |
 | [FullHuman/purgecss](https://github.com/FullHuman/purgecss) · ★ 8,055 | [#1504](https://github.com/FullHuman/purgecss/pull/1504), [#1500](https://github.com/FullHuman/purgecss/pull/1500) |
 | [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) · ★ 7,333 | [#4356](https://github.com/telepresenceio/telepresence/pull/4356) |
-| [vimeo/psalm](https://github.com/vimeo/psalm) · ★ 5,931 | [#13763](https://github.com/vimeo/psalm/pull/13763) |
-| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) · ★ 5,872 | [#1228](https://github.com/Tencent/teamai-cli/pull/1228) |
-| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,491 | [#1051](https://github.com/TabularisDB/tabularis/pull/1051), [#1047](https://github.com/TabularisDB/tabularis/pull/1047) |
+| [vimeo/psalm](https://github.com/vimeo/psalm) · ★ 5,932 | [#13763](https://github.com/vimeo/psalm/pull/13763) |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) · ★ 5,875 | [#1228](https://github.com/Tencent/teamai-cli/pull/1228) |
+| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) · ★ 5,493 | [#1051](https://github.com/TabularisDB/tabularis/pull/1051), [#1047](https://github.com/TabularisDB/tabularis/pull/1047) |
 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) · ★ 5,458 | [#4177](https://github.com/melgarafael/DeskcommCRM/pull/4177) |
 | [orneryd/ui-grid](https://github.com/orneryd/ui-grid) · ★ 5,384 | [#7406](https://github.com/orneryd/ui-grid/pull/7406), [#7401](https://github.com/orneryd/ui-grid/pull/7401) |
-| [apache/maven](https://github.com/apache/maven) · ★ 5,376 | [#13898](https://github.com/apache/maven/pull/13898), [#13890](https://github.com/apache/maven/pull/13890) |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,361 | [#1396](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
-| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) · ★ 4,924 | [#3904](https://github.com/microsoft/PyRIT/pull/3904), [#3968](https://github.com/microsoft/PyRIT/pull/3968), [#3938](https://github.com/microsoft/PyRIT/pull/3938) |
-| [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor) · ★ 4,862 | [#5606](https://github.com/microsoft/fluentui-blazor/pull/5606), [#5605](https://github.com/microsoft/fluentui-blazor/pull/5605) |
+| [apache/maven](https://github.com/apache/maven) · ★ 5,375 | [#13898](https://github.com/apache/maven/pull/13898), [#13890](https://github.com/apache/maven/pull/13890) |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) · ★ 5,363 | [#1396](https://github.com/modelcontextprotocol/go-sdk/pull/1396) |
+| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) · ★ 4,926 | [#3904](https://github.com/microsoft/PyRIT/pull/3904), [#3968](https://github.com/microsoft/PyRIT/pull/3968), [#3938](https://github.com/microsoft/PyRIT/pull/3938) |
+| [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor) · ★ 4,861 | [#5606](https://github.com/microsoft/fluentui-blazor/pull/5606), [#5605](https://github.com/microsoft/fluentui-blazor/pull/5605) |
 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) · ★ 4,740 | [#3651](https://github.com/CorsixTH/CorsixTH/pull/3651) |
-| [dagucloud/dagu](https://github.com/dagucloud/dagu) · ★ 4,625 | [#3536](https://github.com/dagucloud/dagu/pull/3536) |
+| [dagucloud/dagu](https://github.com/dagucloud/dagu) · ★ 4,627 | [#3536](https://github.com/dagucloud/dagu/pull/3536) |
 | [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) · ★ 4,074 | [#1367](https://github.com/open-wanderer/wanderer/pull/1367) |
 | [corazawaf/coraza](https://github.com/corazawaf/coraza) · ★ 4,036 | [#1742](https://github.com/corazawaf/coraza/pull/1742) |
 | [fortio/fortio](https://github.com/fortio/fortio) · ★ 3,739 | [#1174](https://github.com/fortio/fortio/pull/1174) |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) · ★ 3,562 | [#1886](https://github.com/chrisvel/tududi/pull/1886) |
-| [neomjs/neo](https://github.com/neomjs/neo) · ★ 3,304 | [#20914](https://github.com/neomjs/neo/pull/20914) |
-| [software-mansion/argent](https://github.com/software-mansion/argent) · ★ 3,206 | [#1776](https://github.com/software-mansion/argent/pull/1776), [#1602](https://github.com/software-mansion/argent/pull/1602) |
+| [neomjs/neo](https://github.com/neomjs/neo) · ★ 3,305 | [#20914](https://github.com/neomjs/neo/pull/20914) |
+| [software-mansion/argent](https://github.com/software-mansion/argent) · ★ 3,207 | [#1776](https://github.com/software-mansion/argent/pull/1776), [#1602](https://github.com/software-mansion/argent/pull/1602) |
+| [MALSync/MALSync](https://github.com/MALSync/MALSync) · ★ 3,035 | [#4306](https://github.com/MALSync/MALSync/pull/4306) |
 | [stan-dev/stan](https://github.com/stan-dev/stan) · ★ 2,790 | [#3460](https://github.com/stan-dev/stan/pull/3460) |
 | [kevinchappell/formBuilder](https://github.com/kevinchappell/formBuilder) · ★ 2,709 | [#1679](https://github.com/kevinchappell/formBuilder/pull/1679), [#1677](https://github.com/kevinchappell/formBuilder/pull/1677) |
 | [CrossGL/crosstl](https://github.com/CrossGL/crosstl) · ★ 2,413 | [#4482](https://github.com/CrossGL/crosstl/pull/4482), [#4476](https://github.com/CrossGL/crosstl/pull/4476), [#4477](https://github.com/CrossGL/crosstl/pull/4477) |
-| [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame) · ★ 2,376 | [#738](https://github.com/WhiteTowerAI/ohmygame/pull/738) |
-| [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) · ★ 2,135 | [#2047](https://github.com/doobidoo/mcp-memory-service/pull/2047) |
-| [marin-m/vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf) · ★ 1,850 | [#105](https://github.com/marin-m/vmlinux-to-elf/pull/105) |
-| [kubb-labs/kubb](https://github.com/kubb-labs/kubb) · ★ 1,846 | [#4401](https://github.com/kubb-labs/kubb/pull/4401) |
-| [yjid/kensaku](https://github.com/yjid/kensaku) · ★ 1,836 | [#150](https://github.com/yjid/kensaku/pull/150) |
-| [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) · ★ 1,804 | [#1762](https://github.com/Macro-Deck-App/Macro-Deck/pull/1762), [#1765](https://github.com/Macro-Deck-App/Macro-Deck/pull/1765), [#1715](https://github.com/Macro-Deck-App/Macro-Deck/pull/1715) |
+| [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame) · ★ 2,399 | [#738](https://github.com/WhiteTowerAI/ohmygame/pull/738) |
+| [algesten/ureq](https://github.com/algesten/ureq) · ★ 2,234 | [#1223](https://github.com/algesten/ureq/pull/1223) |
+| [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) · ★ 2,136 | [#2047](https://github.com/doobidoo/mcp-memory-service/pull/2047) |
+| [marin-m/vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf) · ★ 1,851 | [#105](https://github.com/marin-m/vmlinux-to-elf/pull/105) |
+| [kubb-labs/kubb](https://github.com/kubb-labs/kubb) · ★ 1,848 | [#4401](https://github.com/kubb-labs/kubb/pull/4401) |
+| [yjid/kensaku](https://github.com/yjid/kensaku) · ★ 1,843 | [#150](https://github.com/yjid/kensaku/pull/150) |
+| [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) · ★ 1,806 | [#1762](https://github.com/Macro-Deck-App/Macro-Deck/pull/1762), [#1765](https://github.com/Macro-Deck-App/Macro-Deck/pull/1765), [#1715](https://github.com/Macro-Deck-App/Macro-Deck/pull/1715) |
 | [kovetskiy/mark](https://github.com/kovetskiy/mark) · ★ 1,616 | [#1122](https://github.com/kovetskiy/mark/pull/1122) |
-| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) · ★ 1,606 | [#5895](https://github.com/vshulcz/deja-vu/pull/5895) |
+| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) · ★ 1,615 | [#5895](https://github.com/vshulcz/deja-vu/pull/5895) |
 | [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) · ★ 1,528 | [#1368](https://github.com/liquidmetal-dev/flintlock/pull/1368), [#1356](https://github.com/liquidmetal-dev/flintlock/pull/1356) |
-| [growilabs/growi](https://github.com/growilabs/growi) · ★ 1,480 | [#12123](https://github.com/growilabs/growi/pull/12123), [#12104](https://github.com/growilabs/growi/pull/12104) |
+| [growilabs/growi](https://github.com/growilabs/growi) · ★ 1,481 | [#12123](https://github.com/growilabs/growi/pull/12123), [#12104](https://github.com/growilabs/growi/pull/12104) |
 | [PyTables/PyTables](https://github.com/PyTables/PyTables) · ★ 1,377 | [#1392](https://github.com/PyTables/PyTables/pull/1392) |
-| [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) · ★ 1,346 | [#3385](https://github.com/cursorless-dev/cursorless/pull/3385) |
+| [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) · ★ 1,345 | [#3385](https://github.com/cursorless-dev/cursorless/pull/3385) |
 | [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) · ★ 1,152 | [#298](https://github.com/kookxiang/jellyfin-plugin-bangumi/pull/298) |
-| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 1,139 | [#1472](https://github.com/eugenioenko/ttt/pull/1472), [#1026](https://github.com/eugenioenko/ttt/pull/1026) |
-| [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) · ★ 1,076 | [#3021](https://github.com/desplega-ai/agent-swarm/pull/3021), [#2807](https://github.com/desplega-ai/agent-swarm/pull/2807) |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) · ★ 1,141 | [#1472](https://github.com/eugenioenko/ttt/pull/1472), [#1026](https://github.com/eugenioenko/ttt/pull/1026) |
+| [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) · ★ 1,080 | [#3021](https://github.com/desplega-ai/agent-swarm/pull/3021), [#2807](https://github.com/desplega-ai/agent-swarm/pull/2807) |
 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) · ★ 1,001 | [#11570](https://github.com/ChurchCRM/CRM/pull/11570) |
 | [python-social-auth/social-core](https://github.com/python-social-auth/social-core) · ★ 929 | [#2163](https://github.com/python-social-auth/social-core/pull/2163) |
-| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 849 | [#735](https://github.com/microsoft/nvx/pull/735), [#579](https://github.com/microsoft/nvx/pull/579), [#584](https://github.com/microsoft/nvx/pull/584), [#585](https://github.com/microsoft/nvx/pull/585), [#578](https://github.com/microsoft/nvx/pull/578), [#577](https://github.com/microsoft/nvx/pull/577), [#576](https://github.com/microsoft/nvx/pull/576), [#580](https://github.com/microsoft/nvx/pull/580), [#582](https://github.com/microsoft/nvx/pull/582), [#523](https://github.com/microsoft/nvx/pull/523), [#534](https://github.com/microsoft/nvx/pull/534), [#530](https://github.com/microsoft/nvx/pull/530) |
-| [openOMSI-org/openOMSI](https://github.com/openOMSI-org/openOMSI) · ★ 773 | [#3442](https://github.com/openOMSI-org/openOMSI/pull/3442) |
-| [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) · ★ 728 | [#648](https://github.com/Cygnux-Labs/Tracekit/pull/648) |
-| [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) · ★ 675 | [#192](https://github.com/lachydotmcg/capri-desktop/pull/192) |
+| [microsoft/nvx](https://github.com/microsoft/nvx) · ★ 850 | [#735](https://github.com/microsoft/nvx/pull/735), [#579](https://github.com/microsoft/nvx/pull/579), [#584](https://github.com/microsoft/nvx/pull/584), [#585](https://github.com/microsoft/nvx/pull/585), [#578](https://github.com/microsoft/nvx/pull/578), [#577](https://github.com/microsoft/nvx/pull/577), [#576](https://github.com/microsoft/nvx/pull/576), [#580](https://github.com/microsoft/nvx/pull/580), [#582](https://github.com/microsoft/nvx/pull/582), [#523](https://github.com/microsoft/nvx/pull/523), [#534](https://github.com/microsoft/nvx/pull/534), [#530](https://github.com/microsoft/nvx/pull/530) |
+| [openOMSI-org/openOMSI](https://github.com/openOMSI-org/openOMSI) · ★ 774 | [#3442](https://github.com/openOMSI-org/openOMSI/pull/3442) |
+| [Cygnux-Labs/Tracekit](https://github.com/Cygnux-Labs/Tracekit) · ★ 771 | [#648](https://github.com/Cygnux-Labs/Tracekit/pull/648) |
+| [voidzero-dev/void](https://github.com/voidzero-dev/void) · ★ 701 | [#593](https://github.com/voidzero-dev/void/pull/593) |
+| [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop) · ★ 683 | [#192](https://github.com/lachydotmcg/capri-desktop/pull/192) |
 | [Ahoo-Wang/CosId](https://github.com/Ahoo-Wang/CosId) · ★ 652 | [#1464](https://github.com/Ahoo-Wang/CosId/pull/1464) |
 | [spellshift/realm](https://github.com/spellshift/realm) · ★ 647 | [#2499](https://github.com/spellshift/realm/pull/2499) |
 | [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) · ★ 635 | [#803](https://github.com/mogenius/renovate-operator/pull/803) |
 | [matrixorigin/memoria](https://github.com/matrixorigin/memoria) · ★ 629 | [#394](https://github.com/matrixorigin/memoria/pull/394) |
 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) · ★ 612 | [#57](https://github.com/agentpit-io/hunter-community/pull/57) |
 | [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) · ★ 596 | [#1233](https://github.com/gitbutlerapp/grit/pull/1233) |
-| [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) · ★ 520 | [#8578](https://github.com/fork-commit-merge/fork-commit-merge/pull/8578), [#8437](https://github.com/fork-commit-merge/fork-commit-merge/pull/8437), [#8422](https://github.com/fork-commit-merge/fork-commit-merge/pull/8422), [#8420](https://github.com/fork-commit-merge/fork-commit-merge/pull/8420), [#8419](https://github.com/fork-commit-merge/fork-commit-merge/pull/8419), [#8421](https://github.com/fork-commit-merge/fork-commit-merge/pull/8421) |
-| [open-telemetry/opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) · ★ 505 | [#1790](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/1790) |
+| [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) · ★ 520 | [#8595](https://github.com/fork-commit-merge/fork-commit-merge/pull/8595), [#8594](https://github.com/fork-commit-merge/fork-commit-merge/pull/8594), [#8593](https://github.com/fork-commit-merge/fork-commit-merge/pull/8593), [#8592](https://github.com/fork-commit-merge/fork-commit-merge/pull/8592), [#8578](https://github.com/fork-commit-merge/fork-commit-merge/pull/8578), [#8437](https://github.com/fork-commit-merge/fork-commit-merge/pull/8437), [#8422](https://github.com/fork-commit-merge/fork-commit-merge/pull/8422), [#8420](https://github.com/fork-commit-merge/fork-commit-merge/pull/8420), [#8419](https://github.com/fork-commit-merge/fork-commit-merge/pull/8419), [#8421](https://github.com/fork-commit-merge/fork-commit-merge/pull/8421) |
+| [open-telemetry/opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) · ★ 506 | [#1790](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/1790) |
 | [auto-differentiation/xad](https://github.com/auto-differentiation/xad) · ★ 445 | [#284](https://github.com/auto-differentiation/xad/pull/284) |
 | [netxms/netxms](https://github.com/netxms/netxms) · ★ 434 | [#3887](https://github.com/netxms/netxms/pull/3887) |
+| [open-policy-agent/regal](https://github.com/open-policy-agent/regal) · ★ 417 | [#2144](https://github.com/open-policy-agent/regal/pull/2144) |
 | [honeycombio/refinery](https://github.com/honeycombio/refinery) · ★ 409 | [#1912](https://github.com/honeycombio/refinery/pull/1912) |
 | [Workday/canvas-kit](https://github.com/Workday/canvas-kit) · ★ 369 | [#4231](https://github.com/Workday/canvas-kit/pull/4231) |
 | [cortex-command-community/Cortex-Command-Community-Project](https://github.com/cortex-command-community/Cortex-Command-Community-Project) · ★ 345 | [#322](https://github.com/cortex-command-community/Cortex-Command-Community-Project/pull/322) |
-| [sven-n/MuMain](https://github.com/sven-n/MuMain) · ★ 327 | [#1132](https://github.com/sven-n/MuMain/pull/1132) |
+| [sven-n/MuMain](https://github.com/sven-n/MuMain) · ★ 328 | [#1132](https://github.com/sven-n/MuMain/pull/1132) |
 | [opencloud-eu/web](https://github.com/opencloud-eu/web) · ★ 303 | [#3645](https://github.com/opencloud-eu/web/pull/3645) |
-| [open-constructs/cdk-terrain](https://github.com/open-constructs/cdk-terrain) · ★ 284 | [#541](https://github.com/open-constructs/cdk-terrain/pull/541) |
+| [open-constructs/cdk-terrain](https://github.com/open-constructs/cdk-terrain) · ★ 285 | [#541](https://github.com/open-constructs/cdk-terrain/pull/541) |
 | [yeonjuan/html-eslint](https://github.com/yeonjuan/html-eslint) · ★ 275 | [#733](https://github.com/yeonjuan/html-eslint/pull/733) |
-| [zuiho-kai/bothouse](https://github.com/zuiho-kai/bothouse) · ★ 264 | [#1029](https://github.com/zuiho-kai/bothouse/pull/1029) |
+| [zuiho-kai/bothouse](https://github.com/zuiho-kai/bothouse) · ★ 268 | [#1029](https://github.com/zuiho-kai/bothouse/pull/1029) |
 | [Techiebutler/freeframe](https://github.com/Techiebutler/freeframe) · ★ 258 | [#622](https://github.com/Techiebutler/freeframe/pull/622), [#513](https://github.com/Techiebutler/freeframe/pull/513), [#512](https://github.com/Techiebutler/freeframe/pull/512) |
 | [AlertaDengue/PySUS](https://github.com/AlertaDengue/PySUS) · ★ 255 | [#374](https://github.com/AlertaDengue/PySUS/pull/374) |
 | [fetrarij/ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) · ★ 253 | [#642](https://github.com/fetrarij/ngx-daterangepicker-material/pull/642), [#602](https://github.com/fetrarij/ngx-daterangepicker-material/pull/602) |
 | [pulumi/pulumi-awsx](https://github.com/pulumi/pulumi-awsx) · ★ 246 | [#2267](https://github.com/pulumi/pulumi-awsx/pull/2267) |
+| [guardana/guardana](https://github.com/guardana/guardana) · ★ 232 | [#369](https://github.com/guardana/guardana/pull/369) |
 | [tektoncd/pipelines-as-code](https://github.com/tektoncd/pipelines-as-code) · ★ 223 | [#3089](https://github.com/tektoncd/pipelines-as-code/pull/3089) |
 | [randovania/randovania](https://github.com/randovania/randovania) · ★ 221 | [#9651](https://github.com/randovania/randovania/pull/9651) |
 | [agntcy/dir](https://github.com/agntcy/dir) · ★ 208 | [#2502](https://github.com/agntcy/dir/pull/2502), [#2489](https://github.com/agntcy/dir/pull/2489), [#2463](https://github.com/agntcy/dir/pull/2463) |
@@ -94,28 +99,29 @@
 | [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) · ★ 200 | [#5980](https://github.com/prime-radiant-inc/evener/pull/5980) |
 | [Hexagon/pup](https://github.com/Hexagon/pup) · ★ 197 | [#82](https://github.com/Hexagon/pup/pull/82) |
 | [jhalter/mobius](https://github.com/jhalter/mobius) · ★ 193 | [#178](https://github.com/jhalter/mobius/pull/178) |
+| [prapaa-ai/agav](https://github.com/prapaa-ai/agav) · ★ 188 | [#675](https://github.com/prapaa-ai/agav/pull/675) |
 | [fly-apps/dockerfile-node](https://github.com/fly-apps/dockerfile-node) · ★ 187 | [#169](https://github.com/fly-apps/dockerfile-node/pull/169) |
-| [prapaa-ai/agav](https://github.com/prapaa-ai/agav) · ★ 187 | [#675](https://github.com/prapaa-ai/agav/pull/675) |
 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) · ★ 186 | [#651](https://github.com/szymdzum/browser-debugger-cli/pull/651) |
 | [MustacheCase/zanadir](https://github.com/MustacheCase/zanadir) · ★ 185 | [#609](https://github.com/MustacheCase/zanadir/pull/609), [#599](https://github.com/MustacheCase/zanadir/pull/599), [#566](https://github.com/MustacheCase/zanadir/pull/566), [#565](https://github.com/MustacheCase/zanadir/pull/565), [#510](https://github.com/MustacheCase/zanadir/pull/510) |
 | [GoogleChromeLabs/css-web-ui-demos](https://github.com/GoogleChromeLabs/css-web-ui-demos) · ★ 185 | [#106](https://github.com/GoogleChromeLabs/css-web-ui-demos/pull/106) |
 | [LanternOps/breeze](https://github.com/LanternOps/breeze) · ★ 177 | [#8395](https://github.com/LanternOps/breeze/pull/8395) |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) · ★ 176 | [#719](https://github.com/peterstace/simplefeatures/pull/719) |
 | [antropos17/Aegis](https://github.com/antropos17/Aegis) · ★ 162 | [#1250](https://github.com/antropos17/Aegis/pull/1250) |
+| [ssamurias/dsh-fish](https://github.com/ssamurias/dsh-fish) · ★ 161 | [#2](https://github.com/ssamurias/dsh-fish/pull/2) |
 | [ldbumble/taskuary](https://github.com/ldbumble/taskuary) · ★ 151 | [#185](https://github.com/ldbumble/taskuary/pull/185) |
+| [snowops-oss/snowopslabs](https://github.com/snowops-oss/snowopslabs) · ★ 149 | [#207](https://github.com/snowops-oss/snowopslabs/pull/207), [#206](https://github.com/snowops-oss/snowopslabs/pull/206) |
 | [lvcabral/brs-engine](https://github.com/lvcabral/brs-engine) · ★ 149 | [#1267](https://github.com/lvcabral/brs-engine/pull/1267) |
-| [snowops-oss/snowopslabs](https://github.com/snowops-oss/snowopslabs) · ★ 147 | [#207](https://github.com/snowops-oss/snowopslabs/pull/207), [#206](https://github.com/snowops-oss/snowopslabs/pull/206) |
+| [AsoBeast/asobeast](https://github.com/AsoBeast/asobeast) · ★ 147 | [#751](https://github.com/AsoBeast/asobeast/pull/751) |
 | [X-Sharp/XSharpPublic](https://github.com/X-Sharp/XSharpPublic) · ★ 146 | [#2169](https://github.com/X-Sharp/XSharpPublic/pull/2169) |
-| [AsoBeast/asobeast](https://github.com/AsoBeast/asobeast) · ★ 145 | [#751](https://github.com/AsoBeast/asobeast/pull/751) |
 | [Dave-London/Pare](https://github.com/Dave-London/Pare) · ★ 141 | [#1156](https://github.com/Dave-London/Pare/pull/1156) |
 | [llm-exe/llm-exe](https://github.com/llm-exe/llm-exe) · ★ 138 | [#834](https://github.com/llm-exe/llm-exe/pull/834) |
 | [Drix10/ai-resources](https://github.com/Drix10/ai-resources) · ★ 133 | [#61](https://github.com/Drix10/ai-resources/pull/61) |
 | [NethermindEth/dotnet-libp2p](https://github.com/NethermindEth/dotnet-libp2p) · ★ 132 | [#468](https://github.com/NethermindEth/dotnet-libp2p/pull/468) |
 | [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/GoSQLX) · ★ 127 | [#591](https://github.com/ajitpratap0/GoSQLX/pull/591) |
-| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 125 | [#140](https://github.com/pablocaeg/sloptotal/pull/140), [#134](https://github.com/pablocaeg/sloptotal/pull/134) |
+| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) · ★ 126 | [#140](https://github.com/pablocaeg/sloptotal/pull/140), [#134](https://github.com/pablocaeg/sloptotal/pull/134) |
 | [PINNeAPPle-Labs/PINNeAPPle](https://github.com/PINNeAPPle-Labs/PINNeAPPle) · ★ 121 | [#1662](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/1662), [#453](https://github.com/PINNeAPPle-Labs/PINNeAPPle/pull/453) |
 | [DouglasNeuroInformatics/OpenDataCapture](https://github.com/DouglasNeuroInformatics/OpenDataCapture) · ★ 119 | [#1809](https://github.com/DouglasNeuroInformatics/OpenDataCapture/pull/1809) |
-| [zsviczian/kplex](https://github.com/zsviczian/kplex) · ★ 117 | [#259](https://github.com/zsviczian/kplex/pull/259) |
+| [zsviczian/kplex](https://github.com/zsviczian/kplex) · ★ 118 | [#259](https://github.com/zsviczian/kplex/pull/259) |
 | [NVIDIA/k8s-test-infra](https://github.com/NVIDIA/k8s-test-infra) · ★ 115 | [#1155](https://github.com/NVIDIA/k8s-test-infra/pull/1155) |
 | [FROWNINGdev/orm-lens](https://github.com/FROWNINGdev/orm-lens) · ★ 112 | [#235](https://github.com/FROWNINGdev/orm-lens/pull/235) |
 | [nubo-db/dynoxide](https://github.com/nubo-db/dynoxide) · ★ 112 | [#269](https://github.com/nubo-db/dynoxide/pull/269) |
@@ -125,23 +131,23 @@
 | [saksham10arora-dotcom/everything-claude-codex](https://github.com/saksham10arora-dotcom/everything-claude-codex) · ★ 98 | [#32](https://github.com/saksham10arora-dotcom/everything-claude-codex/pull/32), [#11](https://github.com/saksham10arora-dotcom/everything-claude-codex/pull/11), [#10](https://github.com/saksham10arora-dotcom/everything-claude-codex/pull/10), [#9](https://github.com/saksham10arora-dotcom/everything-claude-codex/pull/9) |
 | [gardener/external-dns-management](https://github.com/gardener/external-dns-management) · ★ 96 | [#1151](https://github.com/gardener/external-dns-management/pull/1151) |
 | [HarperFast/harper](https://github.com/HarperFast/harper) · ★ 91 | [#3185](https://github.com/HarperFast/harper/pull/3185) |
-| [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 80 | [#1742](https://github.com/Avenx-JS/avenx-js/pull/1742), [#1741](https://github.com/Avenx-JS/avenx-js/pull/1741), [#1740](https://github.com/Avenx-JS/avenx-js/pull/1740), [#1718](https://github.com/Avenx-JS/avenx-js/pull/1718), [#1697](https://github.com/Avenx-JS/avenx-js/pull/1697), [#1685](https://github.com/Avenx-JS/avenx-js/pull/1685), [#1675](https://github.com/Avenx-JS/avenx-js/pull/1675), [#1674](https://github.com/Avenx-JS/avenx-js/pull/1674), [#1669](https://github.com/Avenx-JS/avenx-js/pull/1669), [#1668](https://github.com/Avenx-JS/avenx-js/pull/1668), [#1661](https://github.com/Avenx-JS/avenx-js/pull/1661), [#1614](https://github.com/Avenx-JS/avenx-js/pull/1614), [#1612](https://github.com/Avenx-JS/avenx-js/pull/1612), [#1592](https://github.com/Avenx-JS/avenx-js/pull/1592), [#1576](https://github.com/Avenx-JS/avenx-js/pull/1576), [#1572](https://github.com/Avenx-JS/avenx-js/pull/1572), [#1509](https://github.com/Avenx-JS/avenx-js/pull/1509), [#1508](https://github.com/Avenx-JS/avenx-js/pull/1508), [#1500](https://github.com/Avenx-JS/avenx-js/pull/1500), [#1485](https://github.com/Avenx-JS/avenx-js/pull/1485) |
+| [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js) · ★ 80 | [#1781](https://github.com/Avenx-JS/avenx-js/pull/1781), [#1742](https://github.com/Avenx-JS/avenx-js/pull/1742), [#1741](https://github.com/Avenx-JS/avenx-js/pull/1741), [#1740](https://github.com/Avenx-JS/avenx-js/pull/1740), [#1718](https://github.com/Avenx-JS/avenx-js/pull/1718), [#1697](https://github.com/Avenx-JS/avenx-js/pull/1697), [#1685](https://github.com/Avenx-JS/avenx-js/pull/1685), [#1675](https://github.com/Avenx-JS/avenx-js/pull/1675), [#1674](https://github.com/Avenx-JS/avenx-js/pull/1674), [#1669](https://github.com/Avenx-JS/avenx-js/pull/1669), [#1668](https://github.com/Avenx-JS/avenx-js/pull/1668), [#1661](https://github.com/Avenx-JS/avenx-js/pull/1661), [#1614](https://github.com/Avenx-JS/avenx-js/pull/1614), [#1612](https://github.com/Avenx-JS/avenx-js/pull/1612), [#1592](https://github.com/Avenx-JS/avenx-js/pull/1592), [#1576](https://github.com/Avenx-JS/avenx-js/pull/1576), [#1572](https://github.com/Avenx-JS/avenx-js/pull/1572), [#1556](https://github.com/Avenx-JS/avenx-js/pull/1556), [#1551](https://github.com/Avenx-JS/avenx-js/pull/1551), [#1509](https://github.com/Avenx-JS/avenx-js/pull/1509), [#1508](https://github.com/Avenx-JS/avenx-js/pull/1508), [#1500](https://github.com/Avenx-JS/avenx-js/pull/1500), [#1485](https://github.com/Avenx-JS/avenx-js/pull/1485) |
 | [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client) · ★ 77 | [#2200](https://github.com/hyperledger-labs/fabric-smart-client/pull/2200) |
 | [oceanprotocol/ocean-node](https://github.com/oceanprotocol/ocean-node) · ★ 77 | [#1585](https://github.com/oceanprotocol/ocean-node/pull/1585) |
+| [userFRM/egui-charts](https://github.com/userFRM/egui-charts) · ★ 76 | [#2559](https://github.com/userFRM/egui-charts/pull/2559), [#2495](https://github.com/userFRM/egui-charts/pull/2495), [#2362](https://github.com/userFRM/egui-charts/pull/2362) |
 | [meellm/MeManga](https://github.com/meellm/MeManga) · ★ 76 | [#430](https://github.com/meellm/MeManga/pull/430), [#431](https://github.com/meellm/MeManga/pull/431) |
 | [obielin/skillshield](https://github.com/obielin/skillshield) · ★ 75 | [#155](https://github.com/obielin/skillshield/pull/155), [#149](https://github.com/obielin/skillshield/pull/149), [#132](https://github.com/obielin/skillshield/pull/132) |
-| [userFRM/egui-charts](https://github.com/userFRM/egui-charts) · ★ 74 | [#2559](https://github.com/userFRM/egui-charts/pull/2559), [#2495](https://github.com/userFRM/egui-charts/pull/2495), [#2362](https://github.com/userFRM/egui-charts/pull/2362) |
 | [storyblok/monoblok](https://github.com/storyblok/monoblok) · ★ 69 | [#920](https://github.com/storyblok/monoblok/pull/920), [#919](https://github.com/storyblok/monoblok/pull/919) |
 | [BeppeTemp/cartographer](https://github.com/BeppeTemp/cartographer) · ★ 67 | [#934](https://github.com/BeppeTemp/cartographer/pull/934) |
 | [OpenLakeForge/openlakeforge](https://github.com/OpenLakeForge/openlakeforge) · ★ 67 | [#1047](https://github.com/OpenLakeForge/openlakeforge/pull/1047) |
 | [TMHSDigital/Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets) · ★ 67 | [#122](https://github.com/TMHSDigital/Free-Game-Dev-Assets/pull/122) |
 | [awxkee/moxcms](https://github.com/awxkee/moxcms) · ★ 62 | [#206](https://github.com/awxkee/moxcms/pull/206) |
-| [transit-audio/transit](https://github.com/transit-audio/transit) · ★ 57 | [#434](https://github.com/transit-audio/transit/pull/434), [#337](https://github.com/transit-audio/transit/pull/337), [#46](https://github.com/transit-audio/transit/pull/46) |
+| [transit-audio/transit](https://github.com/transit-audio/transit) · ★ 57 | [#750](https://github.com/transit-audio/transit/pull/750), [#434](https://github.com/transit-audio/transit/pull/434), [#337](https://github.com/transit-audio/transit/pull/337), [#46](https://github.com/transit-audio/transit/pull/46) |
 | [yakew7/DesignHub](https://github.com/yakew7/DesignHub) · ★ 57 | [#231](https://github.com/yakew7/DesignHub/pull/231) |
+| [hystax/optscale-kompressor](https://github.com/hystax/optscale-kompressor) · ★ 54 | [#40](https://github.com/hystax/optscale-kompressor/pull/40) |
 | [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) · ★ 54 | [#56](https://github.com/rakeshnitb23/toolism/pull/56) |
+| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) · ★ 53 | [#1052](https://github.com/flisk-sh/flisk/pull/1052) |
 | [peterdsp/Magnetio](https://github.com/peterdsp/Magnetio) · ★ 53 | [#183](https://github.com/peterdsp/Magnetio/pull/183) |
-| [flisk-sh/flisk](https://github.com/flisk-sh/flisk) · ★ 52 | [#1052](https://github.com/flisk-sh/flisk/pull/1052) |
-| [hystax/optscale-kompressor](https://github.com/hystax/optscale-kompressor) · ★ 52 | [#40](https://github.com/hystax/optscale-kompressor/pull/40) |
 | [shiv3/ocpp-cp-simulator](https://github.com/shiv3/ocpp-cp-simulator) · ★ 48 | [#635](https://github.com/shiv3/ocpp-cp-simulator/pull/635) |
 | [gyldlab/keld](https://github.com/gyldlab/keld) · ★ 47 | [#1086](https://github.com/gyldlab/keld/pull/1086) |
 | [petertzy/markdown-reader](https://github.com/petertzy/markdown-reader) · ★ 46 | [#472](https://github.com/petertzy/markdown-reader/pull/472), [#461](https://github.com/petertzy/markdown-reader/pull/461), [#445](https://github.com/petertzy/markdown-reader/pull/445) |
@@ -157,11 +163,11 @@
 | [StudentSuite/StudyMap](https://github.com/StudentSuite/StudyMap) · ★ 40 | [#329](https://github.com/StudentSuite/StudyMap/pull/329), [#305](https://github.com/StudentSuite/StudyMap/pull/305), [#302](https://github.com/StudentSuite/StudyMap/pull/302) |
 | [LinkNacional/WHMCS-WhatsApp-API-Notifications-open-source](https://github.com/LinkNacional/WHMCS-WhatsApp-API-Notifications-open-source) · ★ 40 | [#162](https://github.com/LinkNacional/WHMCS-WhatsApp-API-Notifications-open-source/pull/162) |
 | [rotorflight/rotorflight-lua-ethos-suite](https://github.com/rotorflight/rotorflight-lua-ethos-suite) · ★ 38 | [#2685](https://github.com/rotorflight/rotorflight-lua-ethos-suite/pull/2685), [#2736](https://github.com/rotorflight/rotorflight-lua-ethos-suite/pull/2736), [#2686](https://github.com/rotorflight/rotorflight-lua-ethos-suite/pull/2686), [#2734](https://github.com/rotorflight/rotorflight-lua-ethos-suite/pull/2734), [#2654](https://github.com/rotorflight/rotorflight-lua-ethos-suite/pull/2654) |
-| [boromat/polanon](https://github.com/boromat/polanon) · ★ 37 | [#5](https://github.com/boromat/polanon/pull/5) |
+| [boromat/polanon](https://github.com/boromat/polanon) · ★ 38 | [#5](https://github.com/boromat/polanon/pull/5) |
 | [carlos-emr/carlos](https://github.com/carlos-emr/carlos) · ★ 37 | [#5799](https://github.com/carlos-emr/carlos/pull/5799) |
 | [sanda0/vps_pilot](https://github.com/sanda0/vps_pilot) · ★ 37 | [#140](https://github.com/sanda0/vps_pilot/pull/140) |
+| [openslop/openslop](https://github.com/openslop/openslop) · ★ 36 | [#1165](https://github.com/openslop/openslop/pull/1165), [#1151](https://github.com/openslop/openslop/pull/1151), [#1120](https://github.com/openslop/openslop/pull/1120), [#1014](https://github.com/openslop/openslop/pull/1014) |
 | [rajveer43/VeloxQuant-MLX](https://github.com/rajveer43/VeloxQuant-MLX) · ★ 36 | [#962](https://github.com/rajveer43/VeloxQuant-MLX/pull/962) |
-| [openslop/openslop](https://github.com/openslop/openslop) · ★ 35 | [#1165](https://github.com/openslop/openslop/pull/1165), [#1151](https://github.com/openslop/openslop/pull/1151), [#1120](https://github.com/openslop/openslop/pull/1120), [#1014](https://github.com/openslop/openslop/pull/1014) |
 | [Copperpour/Copperpour](https://github.com/Copperpour/Copperpour) · ★ 35 | [#545](https://github.com/Copperpour/Copperpour/pull/545) |
 | [necoz-oss/changelog-bot](https://github.com/necoz-oss/changelog-bot) · ★ 35 | [#272](https://github.com/necoz-oss/changelog-bot/pull/272) |
 | [speedyk-005/yasbd-lib](https://github.com/speedyk-005/yasbd-lib) · ★ 35 | [#399](https://github.com/speedyk-005/yasbd-lib/pull/399) |
@@ -217,16 +223,18 @@
 | [Erfouni/solidworks-GPT-plugin](https://github.com/Erfouni/solidworks-GPT-plugin) · ★ 15 | [#23](https://github.com/Erfouni/solidworks-GPT-plugin/pull/23) |
 | [LightningPiggy/lightning-piggy-mobile](https://github.com/LightningPiggy/lightning-piggy-mobile) · ★ 15 | [#1212](https://github.com/LightningPiggy/lightning-piggy-mobile/pull/1212) |
 | [theazz/awless-ro](https://github.com/theazz/awless-ro) · ★ 15 | [#57](https://github.com/theazz/awless-ro/pull/57) |
+| [nickna/Conduit](https://github.com/nickna/Conduit) · ★ 14 | [#1661](https://github.com/nickna/Conduit/pull/1661) |
 | [nickpending/prismis](https://github.com/nickpending/prismis) · ★ 14 | [#93](https://github.com/nickpending/prismis/pull/93) |
 | [vladimirrott/maintainer-agent](https://github.com/vladimirrott/maintainer-agent) · ★ 13 | [#243](https://github.com/vladimirrott/maintainer-agent/pull/243), [#238](https://github.com/vladimirrott/maintainer-agent/pull/238), [#232](https://github.com/vladimirrott/maintainer-agent/pull/232), [#231](https://github.com/vladimirrott/maintainer-agent/pull/231), [#237](https://github.com/vladimirrott/maintainer-agent/pull/237), [#242](https://github.com/vladimirrott/maintainer-agent/pull/242), [#241](https://github.com/vladimirrott/maintainer-agent/pull/241), [#240](https://github.com/vladimirrott/maintainer-agent/pull/240), [#212](https://github.com/vladimirrott/maintainer-agent/pull/212), [#211](https://github.com/vladimirrott/maintainer-agent/pull/211) |
 | [Tawjjeh/TalebElm](https://github.com/Tawjjeh/TalebElm) · ★ 13 | [#509](https://github.com/Tawjjeh/TalebElm/pull/509), [#506](https://github.com/Tawjjeh/TalebElm/pull/506), [#485](https://github.com/Tawjjeh/TalebElm/pull/485), [#459](https://github.com/Tawjjeh/TalebElm/pull/459), [#453](https://github.com/Tawjjeh/TalebElm/pull/453) |
 | [marstr/baronial](https://github.com/marstr/baronial) · ★ 13 | [#132](https://github.com/marstr/baronial/pull/132), [#131](https://github.com/marstr/baronial/pull/131), [#130](https://github.com/marstr/baronial/pull/130) |
 | [mouadja02/skills](https://github.com/mouadja02/skills) · ★ 13 | [#158](https://github.com/mouadja02/skills/pull/158), [#159](https://github.com/mouadja02/skills/pull/159), [#157](https://github.com/mouadja02/skills/pull/157) |
+| [dfa1/rocksdb-ffm](https://github.com/dfa1/rocksdb-ffm) · ★ 13 | [#356](https://github.com/dfa1/rocksdb-ffm/pull/356) |
 | [FreakySneaky787/Simple-Organizer](https://github.com/FreakySneaky787/Simple-Organizer) · ★ 13 | [#103](https://github.com/FreakySneaky787/Simple-Organizer/pull/103) |
 | [itsOmidKarami/kraft](https://github.com/itsOmidKarami/kraft) · ★ 13 | [#1490](https://github.com/itsOmidKarami/kraft/pull/1490) |
 | [minorcell/spider](https://github.com/minorcell/spider) · ★ 13 | [#82](https://github.com/minorcell/spider/pull/82) |
 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) · ★ 13 | [#1669](https://github.com/neomjs/neo-agent-brain/pull/1669) |
-| [nickna/Conduit](https://github.com/nickna/Conduit) · ★ 13 | [#1661](https://github.com/nickna/Conduit/pull/1661) |
+| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) · ★ 12 | [#233](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/233), [#243](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/243), [#249](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/249), [#213](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/213) |
 | [semlith/semlith](https://github.com/semlith/semlith) · ★ 12 | [#355](https://github.com/semlith/semlith/pull/355), [#354](https://github.com/semlith/semlith/pull/354), [#352](https://github.com/semlith/semlith/pull/352) |
 | [rajputomsingh/Relay](https://github.com/rajputomsingh/Relay) · ★ 12 | [#141](https://github.com/rajputomsingh/Relay/pull/141) |
 | [btclib-org/btclib-wallet](https://github.com/btclib-org/btclib-wallet) · ★ 11 | [#983](https://github.com/btclib-org/btclib-wallet/pull/983), [#940](https://github.com/btclib-org/btclib-wallet/pull/940), [#1031](https://github.com/btclib-org/btclib-wallet/pull/1031), [#788](https://github.com/btclib-org/btclib-wallet/pull/788) |
@@ -247,21 +255,20 @@
 | [gardener/network-problem-detector](https://github.com/gardener/network-problem-detector) · ★ 9 | [#216](https://github.com/gardener/network-problem-detector/pull/216) |
 | [HvKOkla/RoboControl-3D](https://github.com/HvKOkla/RoboControl-3D) · ★ 9 | [#11](https://github.com/HvKOkla/RoboControl-3D/pull/11) |
 | [iamkarlson/grocy-py](https://github.com/iamkarlson/grocy-py) · ★ 9 | [#30](https://github.com/iamkarlson/grocy-py/pull/30) |
+| [krapcys1-maker/adaptive-agent-memory-research](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · ★ 9 | [#131](https://github.com/krapcys1-maker/adaptive-agent-memory-research/pull/131) |
 | [gethardcount/hardcount](https://github.com/gethardcount/hardcount) · ★ 8 | [#1716](https://github.com/gethardcount/hardcount/pull/1716), [#1115](https://github.com/gethardcount/hardcount/pull/1115) |
 | [thexjs/x](https://github.com/thexjs/x) · ★ 8 | [#322](https://github.com/thexjs/x/pull/322), [#309](https://github.com/thexjs/x/pull/309) |
+| [davhodg/pycangui](https://github.com/davhodg/pycangui) · ★ 8 | [#8](https://github.com/davhodg/pycangui/pull/8) |
 | [emieks/pencil-puzzles](https://github.com/emieks/pencil-puzzles) · ★ 8 | [#27](https://github.com/emieks/pencil-puzzles/pull/27) |
-| [krapcys1-maker/adaptive-agent-memory-research](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · ★ 8 | [#131](https://github.com/krapcys1-maker/adaptive-agent-memory-research/pull/131) |
 | [mistersilver-uk/fabricate](https://github.com/mistersilver-uk/fabricate) · ★ 8 | [#2507](https://github.com/mistersilver-uk/fabricate/pull/2507) |
 | [sorotrail/SoroTrail](https://github.com/sorotrail/SoroTrail) · ★ 8 | [#1086](https://github.com/sorotrail/SoroTrail/pull/1086) |
 | [wrsilva/reis-mobile](https://github.com/wrsilva/reis-mobile) · ★ 8 | [#21](https://github.com/wrsilva/reis-mobile/pull/21) |
 | [aware-aeco/aware](https://github.com/aware-aeco/aware) · ★ 7 | [#827](https://github.com/aware-aeco/aware/pull/827) |
 | [continuous-dems/fetchez](https://github.com/continuous-dems/fetchez) · ★ 7 | [#481](https://github.com/continuous-dems/fetchez/pull/481) |
-| [davhodg/pycangui](https://github.com/davhodg/pycangui) · ★ 7 | [#8](https://github.com/davhodg/pycangui/pull/8) |
 | [martinfrancois/question-driven-talk-assistant](https://github.com/martinfrancois/question-driven-talk-assistant) · ★ 7 | [#1014](https://github.com/martinfrancois/question-driven-talk-assistant/pull/1014) |
 | [matheussilvano/moodle-mcp](https://github.com/matheussilvano/moodle-mcp) · ★ 7 | [#13](https://github.com/matheussilvano/moodle-mcp/pull/13) |
 | [r-afael/better-yt-recommendations](https://github.com/r-afael/better-yt-recommendations) · ★ 7 | [#41](https://github.com/r-afael/better-yt-recommendations/pull/41) |
 | [japan-gx-group/OpenGreenTrack](https://github.com/japan-gx-group/OpenGreenTrack) · ★ 6 | [#226](https://github.com/japan-gx-group/OpenGreenTrack/pull/226), [#157](https://github.com/japan-gx-group/OpenGreenTrack/pull/157), [#156](https://github.com/japan-gx-group/OpenGreenTrack/pull/156), [#158](https://github.com/japan-gx-group/OpenGreenTrack/pull/158) |
-| [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE) · ★ 6 | [#233](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/233), [#243](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/243), [#249](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/249), [#213](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/213) |
 | [alok-108/phantom](https://github.com/alok-108/phantom) · ★ 6 | [#287](https://github.com/alok-108/phantom/pull/287) |
 | [ika100/sdlc-foundry](https://github.com/ika100/sdlc-foundry) · ★ 6 | [#266](https://github.com/ika100/sdlc-foundry/pull/266) |
 | [mloda-ai/mloda-registry](https://github.com/mloda-ai/mloda-registry) · ★ 6 | [#1332](https://github.com/mloda-ai/mloda-registry/pull/1332) |
@@ -307,11 +314,11 @@
 | [laaielichter/Stashpad](https://github.com/laaielichter/Stashpad) · ★ 2 | [#29](https://github.com/laaielichter/Stashpad/pull/29), [#28](https://github.com/laaielichter/Stashpad/pull/28), [#27](https://github.com/laaielichter/Stashpad/pull/27), [#26](https://github.com/laaielichter/Stashpad/pull/26), [#20](https://github.com/laaielichter/Stashpad/pull/20), [#18](https://github.com/laaielichter/Stashpad/pull/18) |
 | [YO-WHATS-UP2/minigit](https://github.com/YO-WHATS-UP2/minigit) · ★ 2 | [#59](https://github.com/YO-WHATS-UP2/minigit/pull/59), [#58](https://github.com/YO-WHATS-UP2/minigit/pull/58), [#46](https://github.com/YO-WHATS-UP2/minigit/pull/46), [#44](https://github.com/YO-WHATS-UP2/minigit/pull/44) |
 | [DepressionCenter/agentprise](https://github.com/DepressionCenter/agentprise) · ★ 2 | [#57](https://github.com/DepressionCenter/agentprise/pull/57), [#58](https://github.com/DepressionCenter/agentprise/pull/58), [#52](https://github.com/DepressionCenter/agentprise/pull/52) |
+| [philorien/pellikan](https://github.com/philorien/pellikan) · ★ 2 | [#36](https://github.com/philorien/pellikan/pull/36), [#37](https://github.com/philorien/pellikan/pull/37), [#30](https://github.com/philorien/pellikan/pull/30) |
 | [dheerajjha/margins](https://github.com/dheerajjha/margins) · ★ 2 | [#26](https://github.com/dheerajjha/margins/pull/26), [#22](https://github.com/dheerajjha/margins/pull/22) |
 | [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer) · ★ 2 | [#133](https://github.com/dheerajjha/reviewer/pull/133), [#105](https://github.com/dheerajjha/reviewer/pull/105) |
 | [flisk-sh/run-my-agents](https://github.com/flisk-sh/run-my-agents) · ★ 2 [![Founding Contributor #5 @jay23606](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%235%20of%20100%20%E2%80%A2%20%40jay23606&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq) | [#75](https://github.com/flisk-sh/run-my-agents/pull/75), [#31](https://github.com/flisk-sh/run-my-agents/pull/31) |
 | [kidthales/picotol](https://github.com/kidthales/picotol) · ★ 2 | [#228](https://github.com/kidthales/picotol/pull/228), [#177](https://github.com/kidthales/picotol/pull/177) |
-| [philorien/pellikan](https://github.com/philorien/pellikan) · ★ 2 | [#37](https://github.com/philorien/pellikan/pull/37), [#30](https://github.com/philorien/pellikan/pull/30) |
 | [TRNSYSJP/weapy](https://github.com/TRNSYSJP/weapy) · ★ 2 | [#19](https://github.com/TRNSYSJP/weapy/pull/19), [#18](https://github.com/TRNSYSJP/weapy/pull/18) |
 | [amethyst-ck/Wicker](https://github.com/amethyst-ck/Wicker) · ★ 2 | [#5](https://github.com/amethyst-ck/Wicker/pull/5) |
 | [anguoyang/onvif-scan](https://github.com/anguoyang/onvif-scan) · ★ 2 | [#8](https://github.com/anguoyang/onvif-scan/pull/8) |
@@ -330,11 +337,13 @@
 | [jay-the-maker/albumen](https://github.com/jay-the-maker/albumen) · ★ 2 | [#75](https://github.com/jay-the-maker/albumen/pull/75) |
 | [KrunalPanchal1995/openrecommend](https://github.com/KrunalPanchal1995/openrecommend) · ★ 2 | [#10](https://github.com/KrunalPanchal1995/openrecommend/pull/10) |
 | [openwarelabs/open-paste](https://github.com/openwarelabs/open-paste) · ★ 2 | [#22](https://github.com/openwarelabs/open-paste/pull/22) |
+| [PainterFlow/Anytype-BlobUI](https://github.com/PainterFlow/Anytype-BlobUI) · ★ 2 | [#61](https://github.com/PainterFlow/Anytype-BlobUI/pull/61) |
 | [petertzy/deeplocal-chat-adapter](https://github.com/petertzy/deeplocal-chat-adapter) · ★ 2 | [#61](https://github.com/petertzy/deeplocal-chat-adapter/pull/61) |
 | [raoulg/atlas](https://github.com/raoulg/atlas) · ★ 2 | [#294](https://github.com/raoulg/atlas/pull/294) |
 | [RizgarOzan/match3-lab](https://github.com/RizgarOzan/match3-lab) · ★ 2 | [#9](https://github.com/RizgarOzan/match3-lab/pull/9) |
 | [Sean074/sbeam](https://github.com/Sean074/sbeam) · ★ 2 | [#40](https://github.com/Sean074/sbeam/pull/40) |
 | [techcsispit/code-corner](https://github.com/techcsispit/code-corner) · ★ 2 | [#33](https://github.com/techcsispit/code-corner/pull/33) |
+| [Xlient/Moby](https://github.com/Xlient/Moby) · ★ 2 | [#108](https://github.com/Xlient/Moby/pull/108) |
 | [zmo2s/agent-toolbox](https://github.com/zmo2s/agent-toolbox) · ★ 2 | [#12](https://github.com/zmo2s/agent-toolbox/pull/12) |
 | [Sh1n1230/SpotifyEmbedded](https://github.com/Sh1n1230/SpotifyEmbedded) · ★ 1 | [#575](https://github.com/Sh1n1230/SpotifyEmbedded/pull/575), [#417](https://github.com/Sh1n1230/SpotifyEmbedded/pull/417), [#379](https://github.com/Sh1n1230/SpotifyEmbedded/pull/379), [#370](https://github.com/Sh1n1230/SpotifyEmbedded/pull/370) |
 | [bardisty/ficha](https://github.com/bardisty/ficha) · ★ 1 | [#511](https://github.com/bardisty/ficha/pull/511), [#506](https://github.com/bardisty/ficha/pull/506), [#507](https://github.com/bardisty/ficha/pull/507) |
@@ -374,6 +383,7 @@
 | [goldbarth/chartula](https://github.com/goldbarth/chartula) · ★ 1 | [#365](https://github.com/goldbarth/chartula/pull/365) |
 | [GothenburgOffice/vocabulary-training](https://github.com/GothenburgOffice/vocabulary-training) · ★ 1 | [#24](https://github.com/GothenburgOffice/vocabulary-training/pull/24) |
 | [IkarusAILabs/HaltAI](https://github.com/IkarusAILabs/HaltAI) · ★ 1 | [#12](https://github.com/IkarusAILabs/HaltAI/pull/12) |
+| [Insper/qvis](https://github.com/Insper/qvis) · ★ 1 | [#10](https://github.com/Insper/qvis/pull/10) |
 | [jathanism/okapi](https://github.com/jathanism/okapi) · ★ 1 | [#37](https://github.com/jathanism/okapi/pull/37) |
 | [javvadivijayprasad/pw-self-heal](https://github.com/javvadivijayprasad/pw-self-heal) · ★ 1 | [#5](https://github.com/javvadivijayprasad/pw-self-heal/pull/5) |
 | [JoanAbad82/mtgsynergy](https://github.com/JoanAbad82/mtgsynergy) · ★ 1 | [#68](https://github.com/JoanAbad82/mtgsynergy/pull/68) |
@@ -385,9 +395,11 @@
 | [ks-rdz-07/junk-cleaner-2.0](https://github.com/ks-rdz-07/junk-cleaner-2.0) · ★ 1 | [#34](https://github.com/ks-rdz-07/junk-cleaner-2.0/pull/34) |
 | [ManatoYamashita/fw-line-meo](https://github.com/ManatoYamashita/fw-line-meo) · ★ 1 | [#474](https://github.com/ManatoYamashita/fw-line-meo/pull/474) |
 | [myrgic/bot-foundry](https://github.com/myrgic/bot-foundry) · ★ 1 | [#43](https://github.com/myrgic/bot-foundry/pull/43) |
+| [Robert-GeorgeDev/ValidRO](https://github.com/Robert-GeorgeDev/ValidRO) · ★ 1 | [#12](https://github.com/Robert-GeorgeDev/ValidRO/pull/12) |
 | [rossoctl/eventing-lab](https://github.com/rossoctl/eventing-lab) · ★ 1 | [#19](https://github.com/rossoctl/eventing-lab/pull/19) |
 | [silica-ephemera/lupin](https://github.com/silica-ephemera/lupin) · ★ 1 | [#149](https://github.com/silica-ephemera/lupin/pull/149) |
 | [TanbirRamim/show-receipts](https://github.com/TanbirRamim/show-receipts) · ★ 1 | [#10](https://github.com/TanbirRamim/show-receipts/pull/10) |
+| [theluckystrike/heytensor.com](https://github.com/theluckystrike/heytensor.com) · ★ 1 | [#4](https://github.com/theluckystrike/heytensor.com/pull/4) |
 | [theluckystrike/search-operators](https://github.com/theluckystrike/search-operators) · ★ 1 | [#6](https://github.com/theluckystrike/search-operators/pull/6) |
 | [tokenmp/core](https://github.com/tokenmp/core) · ★ 1 | [#42](https://github.com/tokenmp/core/pull/42) |
 | [tomnewport/memprot-topo](https://github.com/tomnewport/memprot-topo) · ★ 1 | [#85](https://github.com/tomnewport/memprot-topo/pull/85) |
@@ -395,7 +407,8 @@
 | [WLAN-Pi/wlanpi-webui](https://github.com/WLAN-Pi/wlanpi-webui) · ★ 1 | [#167](https://github.com/WLAN-Pi/wlanpi-webui/pull/167) |
 | [yasen-mitev/quest-tour-website](https://github.com/yasen-mitev/quest-tour-website) · ★ 1 | [#5](https://github.com/yasen-mitev/quest-tour-website/pull/5) |
 | [YearsAlso/zoo-framework](https://github.com/YearsAlso/zoo-framework) · ★ 1 | [#155](https://github.com/YearsAlso/zoo-framework/pull/155) |
-| [yong5eon/DefStream](https://github.com/yong5eon/DefStream) · ★ 1 | [#56](https://github.com/yong5eon/DefStream/pull/56) |
+| [yong5eon/JustStream](https://github.com/yong5eon/JustStream) · ★ 1 | [#56](https://github.com/yong5eon/JustStream/pull/56) |
+| [zovo-one/crx-permission-risk](https://github.com/zovo-one/crx-permission-risk) · ★ 1 | [#4](https://github.com/zovo-one/crx-permission-risk/pull/4) |
 | [benoit-bremaud/dock-n-roll](https://github.com/benoit-bremaud/dock-n-roll) · ★ 0 | [#97](https://github.com/benoit-bremaud/dock-n-roll/pull/97) |
 | [cesdperez/activeyear](https://github.com/cesdperez/activeyear) · ★ 0 | [#23](https://github.com/cesdperez/activeyear/pull/23) |
 | [CtrlZ-FRC4096/app](https://github.com/CtrlZ-FRC4096/app) · ★ 0 | [#73](https://github.com/CtrlZ-FRC4096/app/pull/73) |
